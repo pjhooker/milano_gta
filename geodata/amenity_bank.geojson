@@ -1,0 +1,7945 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-10T01:17:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/29978452",
+      "properties": {
+        "@id": "node/29978452",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Unicredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1550339,
+          45.4590914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/29978453",
+      "properties": {
+        "@id": "node/29978453",
+        "amenity": "bank",
+        "atm": "yes",
+        "created_by": "Potlatch 0.5d",
+        "name": "Monte dei Paschi di Siena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1565885,
+          45.4596524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/29978454",
+      "properties": {
+        "@id": "node/29978454",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Unicredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1554942,
+          45.4669944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/29978455",
+      "properties": {
+        "@id": "node/29978455",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Popolare di Milano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1555644,
+          45.467717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/29978456",
+      "properties": {
+        "@id": "node/29978456",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banche Popolari Unite"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1557683,
+          45.4697302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/29978457",
+      "properties": {
+        "@id": "node/29978457",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Unipol Banca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1549503,
+          45.4697377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/29978512",
+      "properties": {
+        "@id": "node/29978512",
+        "amenity": "bank",
+        "name": "Unicredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1479474,
+          45.4433092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/247279762",
+      "properties": {
+        "@id": "node/247279762",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "1",
+        "addr:postcode": "20159",
+        "addr:street": "Viale Fulvio Testi",
+        "amenity": "bank",
+        "name": "Unicredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1978174,
+          45.502398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/249562196",
+      "properties": {
+        "@id": "node/249562196",
+        "amenity": "bank",
+        "atm": "yes",
+        "created_by": "JOSM",
+        "operator": "Intesa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1974977,
+          45.5000016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/251312806",
+      "properties": {
+        "@id": "node/251312806",
+        "access": "private",
+        "amenity": "bank",
+        "operator": "Banca Popolare di Sondrio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1938586,
+          45.4901965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/255156308",
+      "properties": {
+        "@id": "node/255156308",
+        "amenity": "bank",
+        "name": "Banca Popolare di Milano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2373943,
+          45.4865223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/255193665",
+      "properties": {
+        "@id": "node/255193665",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Intesa San Paolo",
+        "operator": "Intesa San Paolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2337034,
+          45.4862498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/257047931",
+      "properties": {
+        "@id": "node/257047931",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Unicredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1994652,
+          45.509267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/257048400",
+      "properties": {
+        "@id": "node/257048400",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:postcode": "20162",
+        "addr:street": "Viale Fulvio Testi",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Intesa San Paolo",
+        "opening_hours": "Mo-Fr 08:30-13:30,14:15-16:15",
+        "operator": "Intesa San Paolo",
+        "phone": "+39 02 6416331",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2004422,
+          45.5067954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/259591626",
+      "properties": {
+        "@id": "node/259591626",
+        "amenity": "bank",
+        "created_by": "JOSM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1438559,
+          45.4710299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/266972542",
+      "properties": {
+        "@id": "node/266972542",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "3",
+        "addr:postcode": "20159",
+        "addr:street": "Via Traù",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banco di Desio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1901823,
+          45.4900581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/268598843",
+      "properties": {
+        "@id": "node/268598843",
+        "amenity": "bank",
+        "brand": "Banca Popolare di Milano",
+        "created_by": "Potlatch 0.9c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2024766,
+          45.4620173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/272871244",
+      "properties": {
+        "@id": "node/272871244",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Intesa San Paolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1588427,
+          45.4665127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/274953057",
+      "properties": {
+        "@id": "node/274953057",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Intesa San Paolo",
+        "created_by": "Potlatch 0.10f",
+        "name": "Intesa San Paolo",
+        "operator": "Intesa San Paolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1638014,
+          45.4444288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/278200766",
+      "properties": {
+        "@id": "node/278200766",
+        "amenity": "bank",
+        "created_by": "JOSM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1630765,
+          45.5013183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/279124326",
+      "properties": {
+        "@id": "node/279124326",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "BPM",
+        "operator": "Banca Popolare di Milano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1567491,
+          45.4419497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/279125411",
+      "properties": {
+        "@id": "node/279125411",
+        "amenity": "bank",
+        "atm": "yes",
+        "operator": "Intesa San Paolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1513521,
+          45.4410312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/281579897",
+      "properties": {
+        "@id": "node/281579897",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Intesa San Paolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1703807,
+          45.4570343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/281580114",
+      "properties": {
+        "@id": "node/281580114",
+        "amenity": "bank",
+        "atm": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1701655,
+          45.45819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/281582143",
+      "properties": {
+        "@id": "node/281582143",
+        "amenity": "bank",
+        "atm": "yes",
+        "operator": "Intesa San Paolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1549836,
+          45.4681484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/281583658",
+      "properties": {
+        "@id": "node/281583658",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Popolare Commercio e Industria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1555303,
+          45.4578591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/281585121",
+      "properties": {
+        "@id": "node/281585121",
+        "amenity": "bank",
+        "atm": "yes",
+        "operator": "Unicredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1523674,
+          45.4553722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/281585122",
+      "properties": {
+        "@id": "node/281585122",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Deutsche Bank",
+        "operator": "Deutsche Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.153514,
+          45.4541844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/281585536",
+      "properties": {
+        "@id": "node/281585536",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Intesa SanPaolo",
+        "operator": "Intesa San Paolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1540157,
+          45.4522765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/281585537",
+      "properties": {
+        "@id": "node/281585537",
+        "amenity": "bank",
+        "name": "Credito Artigiano",
+        "operator": "Credito Artigiano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1553623,
+          45.4530191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/281585538",
+      "properties": {
+        "@id": "node/281585538",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Cariparma",
+        "operator": "Intesa San Paolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1550131,
+          45.4505775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/281586097",
+      "properties": {
+        "@id": "node/281586097",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Popolare di Milano",
+        "operator": "Banca Popolare di Milano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1530141,
+          45.4638818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/281586579",
+      "properties": {
+        "@id": "node/281586579",
+        "amenity": "bank",
+        "atm": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1548971,
+          45.4643303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/281589412",
+      "properties": {
+        "@id": "node/281589412",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "BNL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1594596,
+          45.4661704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/281592388",
+      "properties": {
+        "@id": "node/281592388",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Intesa San Paolo",
+        "operator": "Intesa San Paolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.136398,
+          45.4622989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/281592613",
+      "properties": {
+        "@id": "node/281592613",
+        "amenity": "bank",
+        "atm": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1380012,
+          45.4618257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282014448",
+      "properties": {
+        "@id": "node/282014448",
+        "amenity": "bank",
+        "atm": "yes",
+        "created_by": "Potlatch 0.10a",
+        "name": "Allianz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1627217,
+          45.4691433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282177289",
+      "properties": {
+        "@id": "node/282177289",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Popolare di Sondrio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.165733,
+          45.4560399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282177519",
+      "properties": {
+        "@id": "node/282177519",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Popolare Commercio e Industria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1684483,
+          45.4567935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282179865",
+      "properties": {
+        "@id": "node/282179865",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Nazionale del Lavoro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1813922,
+          45.452937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282179866",
+      "properties": {
+        "@id": "node/282179866",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "BCC Banca Credito Cooperativo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1811993,
+          45.4523725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282179867",
+      "properties": {
+        "@id": "node/282179867",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Antonveneta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1834146,
+          45.4527679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282179868",
+      "properties": {
+        "@id": "node/282179868",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Popolare Commercio e Industria",
+        "operator": "UBI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1840302,
+          45.4527005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282179869",
+      "properties": {
+        "@id": "node/282179869",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Popolare dell'Emilia Romagna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.184849,
+          45.4527078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282180093",
+      "properties": {
+        "@id": "node/282180093",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Popolare di Lodi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1901676,
+          45.4514557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282180094",
+      "properties": {
+        "@id": "node/282180094",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Credito Artigiano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1911427,
+          45.4521333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282180177",
+      "properties": {
+        "@id": "node/282180177",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Monte dei Paschi di Siena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.196697,
+          45.4522289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282180285",
+      "properties": {
+        "@id": "node/282180285",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Popolare di Milano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2024939,
+          45.452322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282180286",
+      "properties": {
+        "@id": "node/282180286",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Unicredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2015216,
+          45.452443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282180360",
+      "properties": {
+        "@id": "node/282180360",
+        "amenity": "bank",
+        "atm": "yes",
+        "operator": "Credito Emiliano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2069405,
+          45.4606166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282180471",
+      "properties": {
+        "@id": "node/282180471",
+        "amenity": "bank",
+        "atm": "yes",
+        "operator": "Unicredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2064682,
+          45.4621099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282180949",
+      "properties": {
+        "@id": "node/282180949",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Monte dei Paschi di Siena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2085182,
+          45.4676695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282181278",
+      "properties": {
+        "@id": "node/282181278",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Popolare di Milano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2118443,
+          45.4683423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282181280",
+      "properties": {
+        "@id": "node/282181280",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "UBI - Banco di Brescia",
+        "operator": "UBI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2131156,
+          45.468348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282181281",
+      "properties": {
+        "@id": "node/282181281",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banco di Desio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.213737,
+          45.4683601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282181356",
+      "properties": {
+        "@id": "node/282181356",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Cariparma",
+        "operator": "Cariparma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2149986,
+          45.4706869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282181357",
+      "properties": {
+        "@id": "node/282181357",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Popolare di Lodi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2149895,
+          45.470929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282181456",
+      "properties": {
+        "@id": "node/282181456",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Unicredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.221259,
+          45.4678043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282181519",
+      "properties": {
+        "@id": "node/282181519",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "UBI - Banco di Brescia",
+        "operator": "UBI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2227017,
+          45.4676961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282181763",
+      "properties": {
+        "@id": "node/282181763",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Intesa San Paolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2241355,
+          45.4710139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282181929",
+      "properties": {
+        "@id": "node/282181929",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Unicredit",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2206757,
+          45.4751035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282181930",
+      "properties": {
+        "@id": "node/282181930",
+        "amenity": "bank",
+        "atm": "yes",
+        "created_by": "Potlatch 0.10b",
+        "name": "Monte dei Paschi di Siena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2188734,
+          45.4742705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282181951",
+      "properties": {
+        "@id": "node/282181951",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Intesa San Paolo",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2175453,
+          45.4739007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282181952",
+      "properties": {
+        "@id": "node/282181952",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "CARIPARMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2166792,
+          45.4734907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282182220",
+      "properties": {
+        "@id": "node/282182220",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Deutsche Bank",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2156872,
+          45.4728691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282454558",
+      "properties": {
+        "@id": "node/282454558",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Monte dei Paschi di Siena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1506753,
+          45.4408821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282531707",
+      "properties": {
+        "@id": "node/282531707",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Unicredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1478819,
+          45.4559248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282531708",
+      "properties": {
+        "@id": "node/282531708",
+        "amenity": "bank",
+        "atm": "yes",
+        "created_by": "Potlatch 0.10e",
+        "name": "Banca Popolare dell'Emilia Romagna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1410143,
+          45.45036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282535140",
+      "properties": {
+        "@id": "node/282535140",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Cariparma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1542749,
+          45.4554718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282535256",
+      "properties": {
+        "@id": "node/282535256",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "BNL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1551731,
+          45.4533126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/285538852",
+      "properties": {
+        "@id": "node/285538852",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Intesa San Paolo",
+        "operator": "Intesa San Paolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2467029,
+          45.4792733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/285538858",
+      "properties": {
+        "@id": "node/285538858",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Unicredit",
+        "operator": "UniCredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2471722,
+          45.4792095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/292846345",
+      "properties": {
+        "@id": "node/292846345",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Credem"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1300408,
+          45.4675283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/292846362",
+      "properties": {
+        "@id": "node/292846362",
+        "amenity": "bank",
+        "atm": "yes",
+        "created_by": "Potlatch 0.10b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1288813,
+          45.4685599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/292846418",
+      "properties": {
+        "@id": "node/292846418",
+        "amenity": "bank",
+        "atm": "yes",
+        "operator": "Unicredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1318181,
+          45.4681178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/295548336",
+      "properties": {
+        "@id": "node/295548336",
+        "amenity": "bank",
+        "name": "Findomestic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2200003,
+          45.4962433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/295548343",
+      "properties": {
+        "@id": "node/295548343",
+        "amenity": "bank",
+        "name": "Banca Intesa Sanpaolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2195296,
+          45.4962444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/309698310",
+      "properties": {
+        "@id": "node/309698310",
+        "amenity": "bank",
+        "created_by": "Potlatch 0.10f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1608316,
+          45.4875722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/309698367",
+      "properties": {
+        "@id": "node/309698367",
+        "amenity": "bank",
+        "created_by": "Potlatch 0.10f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.160866,
+          45.4880536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/311820006",
+      "properties": {
+        "@id": "node/311820006",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Popolare di Novara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1529845,
+          45.4522957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/311820010",
+      "properties": {
+        "@id": "node/311820010",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Barclays"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1522317,
+          45.4535687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/311820013",
+      "properties": {
+        "@id": "node/311820013",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Popolare di Milano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.15311,
+          45.4540231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/311820393",
+      "properties": {
+        "@id": "node/311820393",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Popolare di Sondrio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1487839,
+          45.4505251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/311821019",
+      "properties": {
+        "@id": "node/311821019",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Popolare di Milano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1473041,
+          45.4535811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/311821023",
+      "properties": {
+        "@id": "node/311821023",
+        "amenity": "bank",
+        "name": "Unicredit",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1422021,
+          45.4527573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/315277916",
+      "properties": {
+        "@id": "node/315277916",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "13",
+        "addr:postcode": "20124",
+        "addr:street": "Via Vittor Pisani",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Fineco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1998272,
+          45.4819818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/316123741",
+      "properties": {
+        "@id": "node/316123741",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Intesa San Paolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1394469,
+          45.4427433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/316840958",
+      "properties": {
+        "@id": "node/316840958",
+        "amenity": "bank",
+        "name": "Banca Popolare di Brescia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2303484,
+          45.471697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/331068532",
+      "properties": {
+        "@id": "node/331068532",
+        "addr:city": "Milano",
+        "addr:housenumber": "11",
+        "addr:postcode": "20124",
+        "addr:street": "Via Pola",
+        "amenity": "bank",
+        "name": "Unicredit Banca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1941718,
+          45.4885508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/345367314",
+      "properties": {
+        "@id": "node/345367314",
+        "amenity": "bank",
+        "atm": "yes",
+        "created_by": "Potlatch 0.10f",
+        "name": "Monte dei Paschi di Siena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1348109,
+          45.4545768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/345367550",
+      "properties": {
+        "@id": "node/345367550",
+        "amenity": "bank",
+        "atm": "yes",
+        "created_by": "Potlatch 0.10f",
+        "name": "Banca Intesa San Paolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1333346,
+          45.4541494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/353284126",
+      "properties": {
+        "@id": "node/353284126",
+        "amenity": "bank",
+        "name": "Intesa San Paolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1788424,
+          45.4407084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357250300",
+      "properties": {
+        "@id": "node/357250300",
+        "amenity": "bank",
+        "created_by": "Potlatch 0.10f",
+        "source": "Yahoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2031106,
+          45.4722079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357539724",
+      "properties": {
+        "@id": "node/357539724",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "1",
+        "addr:postcode": "20154",
+        "addr:street": "Via Carlo Farini",
+        "amenity": "bank",
+        "name": "Cariparma Crédit Agricole",
+        "phone": "+39 02 29001110"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1814467,
+          45.4831248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/358878167",
+      "properties": {
+        "@id": "node/358878167",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2138277,
+          45.4838487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/358878169",
+      "properties": {
+        "@id": "node/358878169",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "20",
+        "addr:postcode": "20124",
+        "addr:street": "Via Giovanni Battista Pergolesi",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banco di Desio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2104334,
+          45.4852296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/358878180",
+      "properties": {
+        "@id": "node/358878180",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Carige"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2003753,
+          45.4891789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/358879006",
+      "properties": {
+        "@id": "node/358879006",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Popolare di Milano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1984183,
+          45.487636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/358879007",
+      "properties": {
+        "@id": "node/358879007",
+        "addr:city": "Milano",
+        "addr:postcode": "20125",
+        "addr:street": "Via Melchiorre Gioia",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Popolare Commercio & Industria",
+        "operator": "UBI Banca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1979609,
+          45.487319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/358879494",
+      "properties": {
+        "@id": "node/358879494",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "9",
+        "addr:postcode": "20159",
+        "addr:street": "Piazzale Lagosta",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Popolare di Milano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1909103,
+          45.4901385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/358882902",
+      "properties": {
+        "@id": "node/358882902",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Monte dei Paschi di Siena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1689013,
+          45.4805041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/359424062",
+      "properties": {
+        "@id": "node/359424062",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Unicredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1651977,
+          45.5026193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/380593766",
+      "properties": {
+        "@id": "node/380593766",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Intesa San Paolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1624293,
+          45.4569731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/418142028",
+      "properties": {
+        "@id": "node/418142028",
+        "amenity": "bank",
+        "name": "Monte dei Paschi di Siena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1813766,
+          45.4520962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/418358622",
+      "properties": {
+        "@id": "node/418358622",
+        "amenity": "bank",
+        "name": "Intesa San Paolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1802645,
+          45.4519144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/428786109",
+      "properties": {
+        "@id": "node/428786109",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "UBI - Banco di Brescia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1544999,
+          45.4563954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/428788757",
+      "properties": {
+        "@id": "node/428788757",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Unicredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1550055,
+          45.4535995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/429218388",
+      "properties": {
+        "@id": "node/429218388",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Unicredit",
+        "operator": "Unicredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1528129,
+          45.4518799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/429421286",
+      "properties": {
+        "@id": "node/429421286",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Intesa Sanpaolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2301411,
+          45.4861944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/429422742",
+      "properties": {
+        "@id": "node/429422742",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Unicredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1840314,
+          45.4777177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/432821701",
+      "properties": {
+        "@id": "node/432821701",
+        "amenity": "bank",
+        "fixme": "non è banca intesa sanpaolo, il nome è differente (sempre dello stesso gruppo)",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2192915,
+          45.4417643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/432822663",
+      "properties": {
+        "@id": "node/432822663",
+        "amenity": "bank",
+        "atm": "yes",
+        "fixme": "su quale lato della strada si trova?",
+        "name": "Banca Popolare di Milano",
+        "operator": "Banca Popolare di Milano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2178582,
+          45.44333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/435190953",
+      "properties": {
+        "@id": "node/435190953",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Commerciale Italiana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1919786,
+          45.4704356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/438089920",
+      "properties": {
+        "@id": "node/438089920",
+        "amenity": "bank",
+        "atm": "yes",
+        "operator": "Intesa San Paolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2084319,
+          45.4480094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/439184217",
+      "properties": {
+        "@id": "node/439184217",
+        "amenity": "bank",
+        "atm": "yes",
+        "operator": "Banca Popolare di Novara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2081937,
+          45.4483293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/439192239",
+      "properties": {
+        "@id": "node/439192239",
+        "amenity": "bank",
+        "atm": "yes",
+        "operator": "Intesa San Paolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2129714,
+          45.4454061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/441097735",
+      "properties": {
+        "@id": "node/441097735",
+        "amenity": "bank",
+        "atm": "yes",
+        "operator": "UniCredit Banca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2067731,
+          45.4497603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/441161268",
+      "properties": {
+        "@id": "node/441161268",
+        "amenity": "bank",
+        "atm": "yes",
+        "operator": "Che Banca!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1969733,
+          45.4632117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/441162764",
+      "properties": {
+        "@id": "node/441162764",
+        "amenity": "bank",
+        "name": "Banca Nazionale dell'Agricoltura",
+        "operator": "Monte dei Paschi di Siena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1940624,
+          45.4631799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/441577697",
+      "properties": {
+        "@id": "node/441577697",
+        "amenity": "bank",
+        "atm": "yes",
+        "operator": "Intesa San Paolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2029962,
+          45.4522145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/442022320",
+      "properties": {
+        "@id": "node/442022320",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "27A",
+        "addr:postcode": "20121",
+        "addr:street": "Via Monte Napoleone",
+        "amenity": "bank",
+        "atm": "yes",
+        "operator": "Intesa San Paolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1933647,
+          45.4696129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/442073771",
+      "properties": {
+        "@id": "node/442073771",
+        "amenity": "bank",
+        "atm": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2040155,
+          45.49239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/442571309",
+      "properties": {
+        "@id": "node/442571309",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Unicredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2034007,
+          45.452843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/442572162",
+      "properties": {
+        "@id": "node/442572162",
+        "amenity": "bank",
+        "atm": "yes",
+        "operator": "Monte dei Paschi di Siena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2065422,
+          45.4491572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/442581960",
+      "properties": {
+        "@id": "node/442581960",
+        "amenity": "bank",
+        "atm": "yes",
+        "operator": "Intesa San Paolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1968477,
+          45.4503891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/442581961",
+      "properties": {
+        "@id": "node/442581961",
+        "amenity": "bank",
+        "atm": "yes",
+        "operator": "Banca Popolare di Bari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1968034,
+          45.4506095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/442981838",
+      "properties": {
+        "@id": "node/442981838",
+        "amenity": "bank",
+        "atm": "yes",
+        "operator": "Cariparma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2027573,
+          45.4507416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/442984579",
+      "properties": {
+        "@id": "node/442984579",
+        "amenity": "bank",
+        "atm": "yes",
+        "operator": "Banca Popolare di Lodi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1898415,
+          45.4734146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/444374380",
+      "properties": {
+        "@id": "node/444374380",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Flash Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.201751,
+          45.4525875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/444382454",
+      "properties": {
+        "@id": "node/444382454",
+        "amenity": "bank",
+        "atm": "yes",
+        "operator": "Banca Popolare di Sondrio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2072439,
+          45.4494315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/444382654",
+      "properties": {
+        "@id": "node/444382654",
+        "amenity": "bank",
+        "atm": "yes",
+        "operator": "Barclays"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2109432,
+          45.4471433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/446783371",
+      "properties": {
+        "@id": "node/446783371",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Unicredit",
+        "operator": "Unicredito"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2191639,
+          45.4946108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/478775435",
+      "properties": {
+        "@id": "node/478775435",
+        "amenity": "bank",
+        "name": "Unicredit Banca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1799627,
+          45.4519031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/478793337",
+      "properties": {
+        "@id": "node/478793337",
+        "amenity": "bank",
+        "atm": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1974944,
+          45.4431131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/478794667",
+      "properties": {
+        "@id": "node/478794667",
+        "amenity": "bank",
+        "atm": "yes",
+        "operator": "Barclays"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1788889,
+          45.4433548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/478794880",
+      "properties": {
+        "@id": "node/478794880",
+        "amenity": "bank",
+        "atm": "yes",
+        "operator": "Unicredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1788934,
+          45.4437587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/485947861",
+      "properties": {
+        "@id": "node/485947861",
+        "amenity": "bank",
+        "atm": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2425263,
+          45.4572553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/540813412",
+      "properties": {
+        "@id": "node/540813412",
+        "amenity": "bank",
+        "name": "Banca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1628165,
+          45.4835509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/540813415",
+      "properties": {
+        "@id": "node/540813415",
+        "amenity": "bank",
+        "name": "Banca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1635112,
+          45.4830855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/540813454",
+      "properties": {
+        "@id": "node/540813454",
+        "amenity": "bank",
+        "name": "Banca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1603078,
+          45.4841477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/540824170",
+      "properties": {
+        "@id": "node/540824170",
+        "amenity": "bank",
+        "name": "Banca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1594644,
+          45.4865535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/541034031",
+      "properties": {
+        "@id": "node/541034031",
+        "amenity": "bank",
+        "name": "Banca",
+        "operator": "Banca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1508596,
+          45.4985138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/541052318",
+      "properties": {
+        "@id": "node/541052318",
+        "amenity": "bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1683783,
+          45.4877391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/543402694",
+      "properties": {
+        "@id": "node/543402694",
+        "amenity": "bank",
+        "name": "Banca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1607004,
+          45.4879796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/607974918",
+      "properties": {
+        "@id": "node/607974918",
+        "addr:street": "Via Giuseppe Meda",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Polare Di Milano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.178708,
+          45.441557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/607976628",
+      "properties": {
+        "@id": "node/607976628",
+        "amenity": "bank",
+        "atm": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1781827,
+          45.4380659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/661288938",
+      "properties": {
+        "@id": "node/661288938",
+        "amenity": "bank",
+        "operator": "Unicredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1514471,
+          45.4903517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/680094600",
+      "properties": {
+        "@id": "node/680094600",
+        "amenity": "bank",
+        "name": "Unicredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1867324,
+          45.4657918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/680094612",
+      "properties": {
+        "@id": "node/680094612",
+        "amenity": "bank",
+        "name": "Unicredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1881068,
+          45.4657982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/680094633",
+      "properties": {
+        "@id": "node/680094633",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Unicredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1857067,
+          45.4684075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/687864647",
+      "properties": {
+        "@id": "node/687864647",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Unicredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1757507,
+          45.4676797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/693845168",
+      "properties": {
+        "@id": "node/693845168",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "125",
+        "addr:street": "Viale Certosa",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Unicredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1400317,
+          45.495082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/701989748",
+      "properties": {
+        "@id": "node/701989748",
+        "amenity": "bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1683427,
+          45.4717089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/715948232",
+      "properties": {
+        "@id": "node/715948232",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "27",
+        "addr:street": "Corso Italia",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "UniCredit",
+        "operator": "Unicredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1875679,
+          45.4564002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/715948248",
+      "properties": {
+        "@id": "node/715948248",
+        "amenity": "bank",
+        "operator": "Unicredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1884363,
+          45.4602194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/715948257",
+      "properties": {
+        "@id": "node/715948257",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "10",
+        "addr:street": "Via Alberico Albricci",
+        "amenity": "bank",
+        "name": "Unicredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.190478,
+          45.460589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/718857119",
+      "properties": {
+        "@id": "node/718857119",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "10",
+        "addr:postcode": "20124",
+        "addr:street": "Via Napo Torriani",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Unicredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2037873,
+          45.4812365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/723278916",
+      "properties": {
+        "@id": "node/723278916",
+        "amenity": "bank",
+        "operator": "Unicredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1570929,
+          45.4870164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/723278948",
+      "properties": {
+        "@id": "node/723278948",
+        "amenity": "bank",
+        "operator": "Unicredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1598837,
+          45.4845676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/725598158",
+      "properties": {
+        "@id": "node/725598158",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "70",
+        "addr:street": "Viale Certosa",
+        "amenity": "bank",
+        "atm": "yes",
+        "operator": "Unicredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1473985,
+          45.4921905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/726917442",
+      "properties": {
+        "@id": "node/726917442",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Unicredit",
+        "operator": "Unicredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1850484,
+          45.4944581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/729314011",
+      "properties": {
+        "@id": "node/729314011",
+        "amenity": "bank",
+        "atm": "yes",
+        "operator": "Unicredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.137527,
+          45.4683155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/981884253",
+      "properties": {
+        "@id": "node/981884253",
+        "amenity": "bank",
+        "atm": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1063513,
+          45.4601561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/994183956",
+      "properties": {
+        "@id": "node/994183956",
+        "amenity": "bank",
+        "operator": "Unicredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2235358,
+          45.4566161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1013513266",
+      "properties": {
+        "@id": "node/1013513266",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Popolare di Milano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.264784,
+          45.4294104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1042406054",
+      "properties": {
+        "@id": "node/1042406054",
+        "amenity": "bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2696352,
+          45.4805255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1059158177",
+      "properties": {
+        "@id": "node/1059158177",
+        "amenity": "bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2649626,
+          45.423859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1171155322",
+      "properties": {
+        "@id": "node/1171155322",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Monte dei Paschi di Siena",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2024582,
+          45.4784737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1171155337",
+      "properties": {
+        "@id": "node/1171155337",
+        "amenity": "bank",
+        "atm": "no",
+        "name": "Banca Popolare di Vicenza",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2051473,
+          45.4776476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1189928734",
+      "properties": {
+        "@id": "node/1189928734",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.161129,
+          45.4849061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1270179595",
+      "properties": {
+        "@id": "node/1270179595",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Popolare di Milano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1345687,
+          45.4958767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1273580572",
+      "properties": {
+        "@id": "node/1273580572",
+        "amenity": "bank",
+        "name": "Bank of China"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1890467,
+          45.4664516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1274837211",
+      "properties": {
+        "@id": "node/1274837211",
+        "amenity": "bank",
+        "name": "ICBC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1891246,
+          45.4657216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1279667259",
+      "properties": {
+        "@id": "node/1279667259",
+        "amenity": "bank",
+        "atm": "yes",
+        "operator": "Unicredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2052844,
+          45.4750531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1312331387",
+      "properties": {
+        "@id": "node/1312331387",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "12",
+        "addr:postcode": "20146",
+        "addr:street": "Largo dei Gelsomini",
+        "amenity": "bank",
+        "name": "banca popolare commercio e industria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1368783,
+          45.4489659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1322862647",
+      "properties": {
+        "@id": "node/1322862647",
+        "amenity": "bank",
+        "name": "Unicredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1646093,
+          45.466035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1350644860",
+      "properties": {
+        "@id": "node/1350644860",
+        "amenity": "bank",
+        "operator": "Unicredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1834642,
+          45.4640905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1381690681",
+      "properties": {
+        "@id": "node/1381690681",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Cariparma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1818244,
+          45.4591602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1385858968",
+      "properties": {
+        "@id": "node/1385858968",
+        "amenity": "bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1941037,
+          45.4958786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1440613620",
+      "properties": {
+        "@id": "node/1440613620",
+        "amenity": "bank",
+        "atm": "no",
+        "name": "Cariparma",
+        "operator": "Crédit Agricole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.236529,
+          45.4907846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1440613624",
+      "properties": {
+        "@id": "node/1440613624",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Unicredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2363947,
+          45.4909971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1447219001",
+      "properties": {
+        "@id": "node/1447219001",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "UBI - Banco di Brescia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2373346,
+          45.4884633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1471896700",
+      "properties": {
+        "@id": "node/1471896700",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "39",
+        "addr:postcode": "20124",
+        "addr:street": "Via Gustavo Fara",
+        "amenity": "bank",
+        "brand": "Monte dei Paschi di Siena",
+        "name": "Banca Monte dei Paschi di Siena",
+        "operator": "Banca Monte dei Paschi di Siena",
+        "phone": "+39 02 67077283"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1990324,
+          45.4859673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1476127401",
+      "properties": {
+        "@id": "node/1476127401",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Popolare di Lodi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2458973,
+          45.431101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1476127472",
+      "properties": {
+        "@id": "node/1476127472",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Intesa Sanpaolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2418042,
+          45.4321005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1514603859",
+      "properties": {
+        "@id": "node/1514603859",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Popolare di Sondrio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1594072,
+          45.4731702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1523170716",
+      "properties": {
+        "@id": "node/1523170716",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "BNL",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2128265,
+          45.5148013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1524472602",
+      "properties": {
+        "@id": "node/1524472602",
+        "amenity": "bank",
+        "atm": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1980297,
+          45.4626465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1537546168",
+      "properties": {
+        "@id": "node/1537546168",
+        "amenity": "bank",
+        "atm": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1066309,
+          45.4601391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1566286236",
+      "properties": {
+        "@id": "node/1566286236",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Intesa Sanpaolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1720287,
+          45.4552466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1627126626",
+      "properties": {
+        "@id": "node/1627126626",
+        "addr:housenumber": "11",
+        "addr:street": "Via Cesare Battisti",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Intesa Sanpaolo - Filiale di via Cesare Battisti 11",
+        "opening_hours": "Mo-Fr 08:05-13:30, 14:30-20:00; Sa 09:00-13:00",
+        "operator": "Banca Intesa Sanpaolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1997585,
+          45.4631376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1627126632",
+      "properties": {
+        "@id": "node/1627126632",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "1",
+        "addr:postcode": "20122",
+        "addr:street": "Via Durini",
+        "amenity": "bank",
+        "name": "Allianz Global Investors Europe GmbH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1974298,
+          45.4637454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1627126750",
+      "properties": {
+        "@id": "node/1627126750",
+        "amenity": "bank",
+        "name": "Banca Agricola Popolare di Ragusa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1982091,
+          45.4634778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1650250430",
+      "properties": {
+        "@id": "node/1650250430",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Popolare di Milano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.227407,
+          45.4624149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1650250476",
+      "properties": {
+        "@id": "node/1650250476",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Credito Emiliano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2276161,
+          45.4619637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1652689242",
+      "properties": {
+        "@id": "node/1652689242",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Intesa Sanpaolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2205032,
+          45.4817466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1679571328",
+      "properties": {
+        "@id": "node/1679571328",
+        "amenity": "bank",
+        "atm": "no",
+        "name": "Banca Popolare di Sondrio",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2278807,
+          45.4791336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1679709447",
+      "properties": {
+        "@id": "node/1679709447",
+        "amenity": "bank",
+        "name": "Banca Popolare di Sondrio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2241647,
+          45.4719093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1686010485",
+      "properties": {
+        "@id": "node/1686010485",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Intesa Sanpaolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2007096,
+          45.4349488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1697843097",
+      "properties": {
+        "@id": "node/1697843097",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Intesa Sanpaolo",
+        "operator": "Banca Intesa Sanpaolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1761407,
+          45.4670752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1697843100",
+      "properties": {
+        "@id": "node/1697843100",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Intesa Sanpaolo",
+        "operator": "Banca Intesa Sanpaolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1778473,
+          45.4678109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1711894259",
+      "properties": {
+        "@id": "node/1711894259",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "UniCredit Banca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2297707,
+          45.4821167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1721606912",
+      "properties": {
+        "@id": "node/1721606912",
+        "amenity": "bank",
+        "operator": "Banca Intesa Sanpaolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.177718,
+          45.4590758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1726715498",
+      "properties": {
+        "@id": "node/1726715498",
+        "amenity": "bank",
+        "name": "Banca Nazionale del Lavoro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1881229,
+          45.4692439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1828890747",
+      "properties": {
+        "@id": "node/1828890747",
+        "amenity": "bank",
+        "atm": "no",
+        "name": "BNP Paribas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.19106,
+          45.4661652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1828890768",
+      "properties": {
+        "@id": "node/1828890768",
+        "amenity": "bank",
+        "atm": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1907196,
+          45.4660637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1828890769",
+      "properties": {
+        "@id": "node/1828890769",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Credito Artigiano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1913393,
+          45.4663628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1836685251",
+      "properties": {
+        "@id": "node/1836685251",
+        "amenity": "bank",
+        "name": "Banca Cesare Ponti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1886355,
+          45.4650657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1836685252",
+      "properties": {
+        "@id": "node/1836685252",
+        "amenity": "bank",
+        "name": "Credit Suisse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1884181,
+          45.4651144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1836685253",
+      "properties": {
+        "@id": "node/1836685253",
+        "amenity": "bank",
+        "name": "Ing Direct"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1886666,
+          45.4652313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1838783631",
+      "properties": {
+        "@id": "node/1838783631",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Cariparma",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1420929,
+          45.4512661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1849613013",
+      "properties": {
+        "@id": "node/1849613013",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Intesa Sanpaolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1992482,
+          45.4802657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1855655331",
+      "properties": {
+        "@id": "node/1855655331",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Barclays"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1948184,
+          45.473688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1855655518",
+      "properties": {
+        "@id": "node/1855655518",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Monte dei Paschi di Siena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1949184,
+          45.4725611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1858791608",
+      "properties": {
+        "@id": "node/1858791608",
+        "amenity": "bank",
+        "atm": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1807453,
+          45.4553771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1896236896",
+      "properties": {
+        "@id": "node/1896236896",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Popolare di Milano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2160774,
+          45.4858287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1896236913",
+      "properties": {
+        "@id": "node/1896236913",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Monte del Paschi di Siena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2237392,
+          45.4903817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1901845016",
+      "properties": {
+        "@id": "node/1901845016",
+        "amenity": "bank",
+        "name": "Banca Popolare di Bari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1904243,
+          45.4616539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1918683465",
+      "properties": {
+        "@id": "node/1918683465",
+        "amenity": "bank",
+        "atm": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2417093,
+          45.4810169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1923630862",
+      "properties": {
+        "@id": "node/1923630862",
+        "amenity": "bank",
+        "operator": "UBI - Banca Popolare Commercio e Industria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2262297,
+          45.4810525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1923630868",
+      "properties": {
+        "@id": "node/1923630868",
+        "amenity": "bank",
+        "operator": "BPM - Banca Popolare di Milano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2205918,
+          45.449789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1924958795",
+      "properties": {
+        "@id": "node/1924958795",
+        "amenity": "bank",
+        "name": "Unicredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1283703,
+          45.4628789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1940587388",
+      "properties": {
+        "@id": "node/1940587388",
+        "amenity": "bank",
+        "atm": "yes",
+        "operator": "Banca Intesa Sanpaolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1868968,
+          45.4654961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1940649250",
+      "properties": {
+        "@id": "node/1940649250",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "86",
+        "addr:postcode": "20121",
+        "addr:street": "Corso Giuseppe Garibaldi",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Intesa San Paolo",
+        "operator": "Banca Intesa Sanpaolo",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1846816,
+          45.4774015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1978573729",
+      "properties": {
+        "@id": "node/1978573729",
+        "amenity": "bank",
+        "atm": "no",
+        "name": "Intesa SanPaolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2164221,
+          45.4856539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1978573731",
+      "properties": {
+        "@id": "node/1978573731",
+        "amenity": "bank",
+        "name": "UBI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2134774,
+          45.4856207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1978573732",
+      "properties": {
+        "@id": "node/1978573732",
+        "amenity": "bank",
+        "name": "Banca di Piacenza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2128978,
+          45.4855278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2034717464",
+      "properties": {
+        "@id": "node/2034717464",
+        "amenity": "bank",
+        "name": "UBI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2394005,
+          45.4821814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2045098842",
+      "properties": {
+        "@id": "node/2045098842",
+        "amenity": "bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1744985,
+          45.4563504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2050577608",
+      "properties": {
+        "@id": "node/2050577608",
+        "amenity": "bank",
+        "atm": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2070545,
+          45.4651397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2061470744",
+      "properties": {
+        "@id": "node/2061470744",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Intesa Sanpaolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1837204,
+          45.4718833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2064784267",
+      "properties": {
+        "@id": "node/2064784267",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Cariparma Crédit Agricole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1860635,
+          45.4959236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2066420176",
+      "properties": {
+        "@id": "node/2066420176",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Deutsche Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1915418,
+          45.4612645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2070674712",
+      "properties": {
+        "@id": "node/2070674712",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Popolare Etica",
+        "operator": "Banca Popolare Etica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2076593,
+          45.4755212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2073347890",
+      "properties": {
+        "@id": "node/2073347890",
+        "amenity": "bank",
+        "atm": "yes",
+        "fixme": "Position estimated",
+        "name": "Banco di Sardegna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2056316,
+          45.4490696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2075241287",
+      "properties": {
+        "@id": "node/2075241287",
+        "amenity": "bank",
+        "name": "Banca Popolare di Vicenza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1815499,
+          45.4601822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2075241373",
+      "properties": {
+        "@id": "node/2075241373",
+        "amenity": "bank",
+        "atm": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1810587,
+          45.4600295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2075271810",
+      "properties": {
+        "@id": "node/2075271810",
+        "amenity": "bank",
+        "name": "Deutsche Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1845246,
+          45.4567767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2095618233",
+      "properties": {
+        "@id": "node/2095618233",
+        "amenity": "bank",
+        "atm": "no",
+        "name": "Fineco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1969993,
+          45.4841287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2095618237",
+      "properties": {
+        "@id": "node/2095618237",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Monte dei Paschi di Siena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.197162,
+          45.4840995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2097778114",
+      "properties": {
+        "@id": "node/2097778114",
+        "amenity": "bank",
+        "fixme": "Position estimated",
+        "name": "Monte dei Paschi di Siena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1735166,
+          45.5138342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2103491996",
+      "properties": {
+        "@id": "node/2103491996",
+        "amenity": "bank",
+        "name": "Banca Nazionale del Lavoro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1860277,
+          45.4964731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2103491997",
+      "properties": {
+        "@id": "node/2103491997",
+        "amenity": "bank",
+        "name": "Cariparma Crédit Agricole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1849561,
+          45.4971093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2104097151",
+      "properties": {
+        "@id": "node/2104097151",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Popolare di Novara",
+        "operator": "Banca Popolare di Novara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1854532,
+          45.4943527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2104112901",
+      "properties": {
+        "@id": "node/2104112901",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "47",
+        "addr:postcode": "20159",
+        "addr:street": "Via Carlo Farini",
+        "amenity": "bank",
+        "atm": "yes",
+        "operator": "Banca Popolare di Sondrio - Agenzia 31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1837689,
+          45.4913943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2116897929",
+      "properties": {
+        "@id": "node/2116897929",
+        "amenity": "bank",
+        "brand": "Intesa SanPaolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2254187,
+          45.4810861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2131451011",
+      "properties": {
+        "@id": "node/2131451011",
+        "amenity": "bank",
+        "fixme": "Position estimated",
+        "name": "Banca Intesa Sanpaolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2004052,
+          45.4701894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2131451012",
+      "properties": {
+        "@id": "node/2131451012",
+        "amenity": "bank",
+        "atm": "yes",
+        "fixme": "Position estimated",
+        "name": "Banca Intesa Sanpaolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.201639,
+          45.471353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2132561019",
+      "properties": {
+        "@id": "node/2132561019",
+        "addr:housenumber": "2",
+        "addr:postcode": "20157",
+        "addr:street": "Via Michele Lessona",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Popolare di Sondrio - Agenzia 8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1366471,
+          45.5141399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2208161457",
+      "properties": {
+        "@id": "node/2208161457",
+        "addr:housenumber": "189",
+        "addr:postcode": "20141",
+        "addr:street": "Via Giuseppe Ripamonti",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "CREDEM agenzia 11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2015838,
+          45.4331141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2219734514",
+      "properties": {
+        "@id": "node/2219734514",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "5",
+        "addr:postcode": "20123",
+        "addr:street": "Via Cordusio",
+        "amenity": "bank",
+        "atm": "no",
+        "name": "Banca d'Italia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.18541,
+          45.4644406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2219734545",
+      "properties": {
+        "@id": "node/2219734545",
+        "amenity": "bank",
+        "name": "Unicredit Banca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1857158,
+          45.4646476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2219734551",
+      "properties": {
+        "@id": "node/2219734551",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "8/10",
+        "addr:postcode": "20123",
+        "addr:street": "Via della Posta",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banco di Desio",
+        "phone": "+39 02 8808111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1833451,
+          45.4644748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2219734563",
+      "properties": {
+        "@id": "node/2219734563",
+        "amenity": "bank",
+        "atm": "no",
+        "name": "Antonveneta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1849621,
+          45.4654715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2219757689",
+      "properties": {
+        "@id": "node/2219757689",
+        "amenity": "bank",
+        "atm": "yes",
+        "comment:it": "atm all'interno",
+        "name": "Credito Artigiano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1851225,
+          45.4658593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2219768030",
+      "properties": {
+        "@id": "node/2219768030",
+        "amenity": "bank",
+        "name": "Banca Popolare di Lodi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1874346,
+          45.46455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2223277711",
+      "properties": {
+        "@id": "node/2223277711",
+        "addr:street": "Via Bergognone da Fossano",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Sella",
+        "operator": "Banca Sella"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1633194,
+          45.4548642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2250935313",
+      "properties": {
+        "@id": "node/2250935313",
+        "amenity": "bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1396134,
+          45.5148169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2263301064",
+      "properties": {
+        "@id": "node/2263301064",
+        "amenity": "bank",
+        "name": "IBL Banca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2175753,
+          45.4866176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2263301071",
+      "properties": {
+        "@id": "node/2263301071",
+        "amenity": "bank",
+        "name": "Cariparma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2172366,
+          45.4868187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2269147961",
+      "properties": {
+        "@id": "node/2269147961",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "UBI Banca Carime"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1989575,
+          45.4656595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2302963469",
+      "properties": {
+        "@id": "node/2302963469",
+        "amenity": "bank",
+        "name": "BNL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1818775,
+          45.4658912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2328648640",
+      "properties": {
+        "@id": "node/2328648640",
+        "amenity": "bank",
+        "name": "Unicredit Banca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2301167,
+          45.488975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2333258879",
+      "properties": {
+        "@id": "node/2333258879",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "BPM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1341748,
+          45.4629775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2339006760",
+      "properties": {
+        "@id": "node/2339006760",
+        "amenity": "bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1367334,
+          45.4675409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2349924262",
+      "properties": {
+        "@id": "node/2349924262",
+        "amenity": "bank",
+        "name": "Unicredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1913511,
+          45.4688794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2353678194",
+      "properties": {
+        "@id": "node/2353678194",
+        "amenity": "bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1474727,
+          45.4916832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2391329529",
+      "properties": {
+        "@id": "node/2391329529",
+        "amenity": "bank",
+        "atm": "yes",
+        "fixme": "Position estimated",
+        "name": "Crediparma Crédit Agricole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1939971,
+          45.4673047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2399589567",
+      "properties": {
+        "@id": "node/2399589567",
+        "amenity": "bank",
+        "name": "Unicredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1943,
+          45.4757694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2400614077",
+      "properties": {
+        "@id": "node/2400614077",
+        "amenity": "bank",
+        "name": "Interbanca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1912645,
+          45.4684276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2404065796",
+      "properties": {
+        "@id": "node/2404065796",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Intesa San Paolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1554728,
+          45.4617051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2409311928",
+      "properties": {
+        "@id": "node/2409311928",
+        "amenity": "bank",
+        "operator": "UniCredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.206325,
+          45.4944249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2416147965",
+      "properties": {
+        "@id": "node/2416147965",
+        "amenity": "bank",
+        "name": "BCC Banca di Credito Cooperativo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1817476,
+          45.4803545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2416276982",
+      "properties": {
+        "@id": "node/2416276982",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "8",
+        "addr:postcode": "20154",
+        "addr:street": "Viale Montello",
+        "amenity": "bank",
+        "name": "Bank of China"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1811026,
+          45.4807823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2438744128",
+      "properties": {
+        "@id": "node/2438744128",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Popolare di Sondrio",
+        "operator": "Banca Popolare di Sondrio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1916827,
+          45.4913249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2438765679",
+      "properties": {
+        "@id": "node/2438765679",
+        "addr:city": "Milano",
+        "addr:housenumber": "22",
+        "addr:postcode": "20159",
+        "addr:street": "Via Pietro Borsieri",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Barclay's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1891319,
+          45.4880421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2452694235",
+      "properties": {
+        "@id": "node/2452694235",
+        "amenity": "bank",
+        "name": "Banca Nazionale del Lavoro - BNL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1466458,
+          45.4960871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2456088126",
+      "properties": {
+        "@id": "node/2456088126",
+        "addr:city": "Milano",
+        "addr:housenumber": "14",
+        "addr:postcode": "20124",
+        "addr:street": "Via Spalato",
+        "amenity": "bank",
+        "name": "Banca Popolare di Lodi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1914467,
+          45.4883261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2456097874",
+      "properties": {
+        "@id": "node/2456097874",
+        "addr:city": "Milano",
+        "addr:postcode": "20124",
+        "addr:street": "Via Pola",
+        "amenity": "bank",
+        "name": "Barclays"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1932183,
+          45.4888649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2461220923",
+      "properties": {
+        "@id": "node/2461220923",
+        "amenity": "bank",
+        "operator": "UBI - Banca  Popolare Commercio e Industria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2304286,
+          45.4656881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2471320008",
+      "properties": {
+        "@id": "node/2471320008",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "4",
+        "addr:postcode": "20121",
+        "addr:street": "Via Varese",
+        "amenity": "bank",
+        "atm": "yes",
+        "email": "Milano.Varese@Barclays.it",
+        "fax": "+39 02 94351610",
+        "name": "Barclays",
+        "phone": "+39 02 94351601"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1845594,
+          45.4789719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2476685965",
+      "properties": {
+        "@id": "node/2476685965",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "15",
+        "addr:postcode": "20154",
+        "addr:street": "Corso Como",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Popolare di Vicenza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1872583,
+          45.4827073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2476941646",
+      "properties": {
+        "@id": "node/2476941646",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "23",
+        "addr:postcode": "20124",
+        "addr:street": "Via Vittor Pisani",
+        "amenity": "bank",
+        "atm": "no",
+        "brand": "Unicredit",
+        "name": "Unicredit",
+        "opening_hours": "Mo-Fr 08:35-13:35,14:45-16:15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2012189,
+          45.4833478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2480199185",
+      "properties": {
+        "@id": "node/2480199185",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Intesa Sanpaolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1606848,
+          45.4548136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2488587277",
+      "properties": {
+        "@id": "node/2488587277",
+        "addr:city": "Milano",
+        "addr:housenumber": "3",
+        "addr:postcode": "20124",
+        "addr:street": "Viale Francesco Restelli",
+        "amenity": "bank",
+        "name": "Intesa Sanpaolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1950703,
+          45.4877502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2488591646",
+      "properties": {
+        "@id": "node/2488591646",
+        "addr:city": "Milano",
+        "addr:housenumber": "2",
+        "addr:postcode": "20124",
+        "addr:street": "Via Ercole Oldofredi",
+        "amenity": "bank",
+        "name": "CheBanca!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1955276,
+          45.4884093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2488597103",
+      "properties": {
+        "@id": "node/2488597103",
+        "addr:city": "Milano",
+        "addr:housenumber": "16",
+        "addr:postcode": "20124",
+        "addr:street": "Via Ippolito Rosellini",
+        "amenity": "bank",
+        "name": "Monte dei Paschi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1949791,
+          45.4897904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2488630846",
+      "properties": {
+        "@id": "node/2488630846",
+        "addr:city": "Milano",
+        "addr:postcode": "20159",
+        "addr:street": "Piazza Fidia",
+        "amenity": "bank",
+        "name": "Unicredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1859321,
+          45.4891379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2516378889",
+      "properties": {
+        "@id": "node/2516378889",
+        "addr:city": "Milano",
+        "addr:housenumber": "2",
+        "addr:postcode": "20133",
+        "addr:street": "Piazza Andrea Fusina",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Unicredit",
+        "operator": "UniCredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2303688,
+          45.4685592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2521926876",
+      "properties": {
+        "@id": "node/2521926876",
+        "amenity": "bank",
+        "operator": "Banca Popolare di Milano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2212812,
+          45.4682261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2524655281",
+      "properties": {
+        "@id": "node/2524655281",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "3",
+        "addr:postcode": "20123",
+        "addr:street": "Piazza degli Affari",
+        "amenity": "bank",
+        "name": "Veneto Banca",
+        "phone": "+39 02 8060661"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1828557,
+          45.4645003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2525518796",
+      "properties": {
+        "@id": "node/2525518796",
+        "amenity": "bank",
+        "name": "Banco di Desio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2312329,
+          45.4369821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2529826462",
+      "properties": {
+        "@id": "node/2529826462",
+        "amenity": "bank",
+        "fixme": "Position estimated",
+        "name": "Banca UBI - Banca Popolare Commercio Industria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1754978,
+          45.4680095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2533815065",
+      "properties": {
+        "@id": "node/2533815065",
+        "amenity": "bank",
+        "name": "BancaEtruria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2176103,
+          45.4852911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2534042287",
+      "properties": {
+        "@id": "node/2534042287",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Popolare di Vicenza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2183364,
+          45.486143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2534045201",
+      "properties": {
+        "@id": "node/2534045201",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Unicredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2164766,
+          45.486874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2542751955",
+      "properties": {
+        "@id": "node/2542751955",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "2/A",
+        "addr:postcode": "20124",
+        "addr:street": "Via Giovanni Battista Pergolesi",
+        "amenity": "bank",
+        "atm": "yes",
+        "fax": "+39 02 39190751",
+        "name": "Extrabanca",
+        "opening_hours": "Mo-Fr 08:30-20:00; Sa 08:00-12:00",
+        "phone": "+39 02 27727610"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.21347,
+          45.4837287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2543389114",
+      "properties": {
+        "@id": "node/2543389114",
+        "amenity": "bank",
+        "name": "Deutsche Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2149034,
+          45.48484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2544824832",
+      "properties": {
+        "@id": "node/2544824832",
+        "amenity": "bank",
+        "name": "Banca Intesa Sanpaolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2213838,
+          45.5009638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2559973236",
+      "properties": {
+        "@id": "node/2559973236",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "BPM",
+        "operator": "BPM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2438206,
+          45.4557425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2560167149",
+      "properties": {
+        "@id": "node/2560167149",
+        "amenity": "bank",
+        "name": "BPM Banca Popolare di Milano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2197863,
+          45.4576369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2561724878",
+      "properties": {
+        "@id": "node/2561724878",
+        "amenity": "bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.165464,
+          45.5019597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2569858133",
+      "properties": {
+        "@id": "node/2569858133",
+        "amenity": "bank",
+        "name": "Deutsche Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1585105,
+          45.4856111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2610502717",
+      "properties": {
+        "@id": "node/2610502717",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Unicredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2151952,
+          45.4780122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2633774879",
+      "properties": {
+        "@id": "node/2633774879",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Unicredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2157834,
+          45.4538761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2633774881",
+      "properties": {
+        "@id": "node/2633774881",
+        "amenity": "bank",
+        "name": "Intesa San Paolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2161026,
+          45.4553023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2633910119",
+      "properties": {
+        "@id": "node/2633910119",
+        "amenity": "bank",
+        "name": "Banca Intesa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2586264,
+          45.4198954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2633910130",
+      "properties": {
+        "@id": "node/2633910130",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "BNL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2592338,
+          45.420706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2647205744",
+      "properties": {
+        "@id": "node/2647205744",
+        "addr:housenumber": "14",
+        "addr:postcode": "20129",
+        "addr:street": "Via Plinio",
+        "amenity": "bank",
+        "atm": "yes",
+        "fax": "+39 02 29403103",
+        "name": "Monte dei Paschi di Siena",
+        "phone": "+39 02 29401322",
+        "ref": "MILANO AG.59",
+        "website": "http://www.mps.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2132758,
+          45.4786792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2659332983",
+      "properties": {
+        "@id": "node/2659332983",
+        "amenity": "bank",
+        "name": "BNL",
+        "operator": "BNL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1647222,
+          45.4821968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2661477757",
+      "properties": {
+        "@id": "node/2661477757",
+        "amenity": "bank",
+        "name": "Barclays"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1510471,
+          45.4658749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2661492419",
+      "properties": {
+        "@id": "node/2661492419",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banco Desio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1487787,
+          45.4662604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2661492420",
+      "properties": {
+        "@id": "node/2661492420",
+        "amenity": "bank",
+        "atm": "no",
+        "name": "Deutsche Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1498525,
+          45.4661562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2661498288",
+      "properties": {
+        "@id": "node/2661498288",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Popolare di Sondrio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1482968,
+          45.4663019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2661658212",
+      "properties": {
+        "@id": "node/2661658212",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Unicredit Banca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1484174,
+          45.4668663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2661659342",
+      "properties": {
+        "@id": "node/2661659342",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "CheBanca!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1482755,
+          45.466603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2661810422",
+      "properties": {
+        "@id": "node/2661810422",
+        "amenity": "bank",
+        "name": "Intesa Sanpaolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1503785,
+          45.4668252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2666661006",
+      "properties": {
+        "@id": "node/2666661006",
+        "amenity": "bank",
+        "name": "BPM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1799291,
+          45.4516203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2666810639",
+      "properties": {
+        "@id": "node/2666810639",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "UBI Banco di Brescia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1812513,
+          45.4526049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2668752207",
+      "properties": {
+        "@id": "node/2668752207",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Deutsche Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1560452,
+          45.437422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2668872155",
+      "properties": {
+        "@id": "node/2668872155",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Intesa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1769277,
+          45.4661569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2668881632",
+      "properties": {
+        "@id": "node/2668881632",
+        "amenity": "bank",
+        "name": "banco desio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1753318,
+          45.4660328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2668889603",
+      "properties": {
+        "@id": "node/2668889603",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "BNL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1733361,
+          45.4674479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2671469640",
+      "properties": {
+        "@id": "node/2671469640",
+        "amenity": "bank",
+        "name": "Banca Intesa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1751024,
+          45.4101029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2694886795",
+      "properties": {
+        "@id": "node/2694886795",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Popolare di Lodi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2174748,
+          45.4856933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2707301785",
+      "properties": {
+        "@id": "node/2707301785",
+        "amenity": "bank",
+        "name": "Banca Popolare di Sondrio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1661288,
+          45.5018384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2724213415",
+      "properties": {
+        "@id": "node/2724213415",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "1",
+        "addr:postcode": "20154",
+        "addr:street": "Corso Como",
+        "amenity": "bank",
+        "name": "UBI Banco di Brescia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1868942,
+          45.4811452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2747198378",
+      "properties": {
+        "@id": "node/2747198378",
+        "amenity": "bank",
+        "name": "Banca Popolare di Milano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1960373,
+          45.4633773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2747239597",
+      "properties": {
+        "@id": "node/2747239597",
+        "amenity": "bank",
+        "name": "Intesa Sanpaolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1913716,
+          45.4604822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2775875521",
+      "properties": {
+        "@id": "node/2775875521",
+        "amenity": "bank",
+        "operator": "Cariparma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2308849,
+          45.4829851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2778012586",
+      "properties": {
+        "@id": "node/2778012586",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Unicredit",
+        "operator": "Unicredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2113031,
+          45.4741532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2812831486",
+      "properties": {
+        "@id": "node/2812831486",
+        "amenity": "bank",
+        "name": "cariparma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1765344,
+          45.4186197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2836084619",
+      "properties": {
+        "@id": "node/2836084619",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Intesa Sanpaolo",
+        "operator": "Banca Intesa Sanpaolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1768831,
+          45.5034022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2838349170",
+      "properties": {
+        "@id": "node/2838349170",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "16",
+        "addr:postcode": "20121",
+        "addr:street": "Via Cusani",
+        "amenity": "bank",
+        "name": "Veneto Banca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1836203,
+          45.4687441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2915129215",
+      "properties": {
+        "@id": "node/2915129215",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Barclays"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2307082,
+          45.4861955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2915159117",
+      "properties": {
+        "@id": "node/2915159117",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Intesa Sanpaolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2136056,
+          45.4623643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2933256402",
+      "properties": {
+        "@id": "node/2933256402",
+        "amenity": "bank",
+        "operator": "Cariparma Credit Agricole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2227561,
+          45.46842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2942333912",
+      "properties": {
+        "@id": "node/2942333912",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Unicredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1726844,
+          45.4551187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2942352032",
+      "properties": {
+        "@id": "node/2942352032",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "UBI Banca Popolare Commercio&Industria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1719698,
+          45.4555986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2943631571",
+      "properties": {
+        "@id": "node/2943631571",
+        "amenity": "bank",
+        "name": "BPM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1189825,
+          45.4725714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2947891257",
+      "properties": {
+        "@id": "node/2947891257",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "33",
+        "addr:postcode": "20154",
+        "addr:street": "Viale Luigi Sturzo",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "UBI Banca Popolare"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1870215,
+          45.4831734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2955893157",
+      "properties": {
+        "@id": "node/2955893157",
+        "addr:street": "Via Gaudenzio Fantoli",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Monte dei Paschi di Siena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2515569,
+          45.4516132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2966737878",
+      "properties": {
+        "@id": "node/2966737878",
+        "addr:housenumber": "7",
+        "addr:street": "Via Giuseppe Verdi",
+        "amenity": "bank",
+        "fixme": "Position estimated; atm to be checked",
+        "operator": "Unicredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1884621,
+          45.4684833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2966737879",
+      "properties": {
+        "@id": "node/2966737879",
+        "amenity": "bank",
+        "atm": "yes",
+        "comment:it": "orario nei prefestivi 08:35-13:00",
+        "opening_hours": "Mo-Fr 08:35-13:35, 14:45-16:15",
+        "operator": "Unicredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1975337,
+          45.4651859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2973140265",
+      "properties": {
+        "@id": "node/2973140265",
+        "amenity": "bank",
+        "name": "Credit Suisse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1882735,
+          45.4659694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2981774550",
+      "properties": {
+        "@id": "node/2981774550",
+        "amenity": "bank",
+        "name": "Cassa dei risparmi di Milano e della Lombardia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1839642,
+          45.466761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2991373500",
+      "properties": {
+        "@id": "node/2991373500",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "BNL",
+        "comment:it": "orario nei prefestivi 08:35-12:05",
+        "contact:phone": "+39 02 80249812",
+        "name": "BNL - Agenzia 8 - corso Europa 22",
+        "opening_hours": "Mo-Fr 08:35-13:35, 14:45-16:15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.197629,
+          45.4652887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3001346152",
+      "properties": {
+        "@id": "node/3001346152",
+        "amenity": "bank",
+        "fixme": "Position estimated",
+        "name": "IWBank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1973366,
+          45.4649967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3007409043",
+      "properties": {
+        "@id": "node/3007409043",
+        "amenity": "bank",
+        "name": "Carige"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1939846,
+          45.4648838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3007506339",
+      "properties": {
+        "@id": "node/3007506339",
+        "amenity": "bank",
+        "name": "Cariparma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1865118,
+          45.4641668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3018903704",
+      "properties": {
+        "@id": "node/3018903704",
+        "amenity": "bank",
+        "atm": "yes",
+        "fixme": "Position estimated",
+        "name": "Banca Popolare di Sondrio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1993817,
+          45.4632811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3018903705",
+      "properties": {
+        "@id": "node/3018903705",
+        "amenity": "bank",
+        "name": "Deutsche Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1998965,
+          45.4633267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3023303443",
+      "properties": {
+        "@id": "node/3023303443",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "1",
+        "addr:postcode": "20123",
+        "addr:street": "Largo Cairoli",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Monte dei Paschi di Siena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1824075,
+          45.4676676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3023341489",
+      "properties": {
+        "@id": "node/3023341489",
+        "amenity": "bank",
+        "name": "Deutsche Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1860778,
+          45.466156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3027142717",
+      "properties": {
+        "@id": "node/3027142717",
+        "addr:housenumber": "9",
+        "addr:street": "Via Santa Margherita",
+        "amenity": "bank",
+        "name": "Banca Euromobiliare"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1887513,
+          45.466493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3027142718",
+      "properties": {
+        "@id": "node/3027142718",
+        "amenity": "bank",
+        "name": "Monte dei Paschi di Siena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1889304,
+          45.4666775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3027142719",
+      "properties": {
+        "@id": "node/3027142719",
+        "amenity": "bank",
+        "atm": "yes",
+        "operator": "Barclays"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1872436,
+          45.4653306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3028060615",
+      "properties": {
+        "@id": "node/3028060615",
+        "amenity": "bank",
+        "name": "Carige"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2115439,
+          45.4617125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3030452589",
+      "properties": {
+        "@id": "node/3030452589",
+        "amenity": "bank",
+        "name": "Banca Mediolanum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1935609,
+          45.462609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3037337924",
+      "properties": {
+        "@id": "node/3037337924",
+        "amenity": "bank",
+        "name": "Banca Intermobiliare"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1840737,
+          45.4659729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3037507378",
+      "properties": {
+        "@id": "node/3037507378",
+        "amenity": "bank",
+        "name": "Banca Popolare della Puglia e Basilicata"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1879616,
+          45.4652997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3042197612",
+      "properties": {
+        "@id": "node/3042197612",
+        "amenity": "bank",
+        "name": "UBI Banca Popolare di Bergamo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2064095,
+          45.4626895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3054371436",
+      "properties": {
+        "@id": "node/3054371436",
+        "amenity": "bank",
+        "fixme": "Position estimated",
+        "name": "Banca Intesa Sanpaolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2323246,
+          45.4656956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3054371438",
+      "properties": {
+        "@id": "node/3054371438",
+        "amenity": "bank",
+        "name": "Monte dei Pachi di Siena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2354523,
+          45.4623167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3058099335",
+      "properties": {
+        "@id": "node/3058099335",
+        "amenity": "bank",
+        "name": "BPM Banca Popolare di Milano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.232168,
+          45.4708293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3070402001",
+      "properties": {
+        "@id": "node/3070402001",
+        "amenity": "bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.261218,
+          45.4158194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3070402002",
+      "properties": {
+        "@id": "node/3070402002",
+        "amenity": "bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2608907,
+          45.4161903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3093809740",
+      "properties": {
+        "@id": "node/3093809740",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Intesa San Paolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1425797,
+          45.4651574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3098541513",
+      "properties": {
+        "@id": "node/3098541513",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "16",
+        "addr:postcode": "20122",
+        "addr:street": "Corso di Porta Romana",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Fideuram"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.190557,
+          45.459171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3147151896",
+      "properties": {
+        "@id": "node/3147151896",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "26",
+        "addr:postcode": "20124",
+        "addr:street": "Via Sebenico",
+        "amenity": "bank",
+        "name": "Intesa SanPaolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1899656,
+          45.4875301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3147207855",
+      "properties": {
+        "@id": "node/3147207855",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "6",
+        "addr:postcode": "20159",
+        "addr:street": "Piazzale Lagosta",
+        "amenity": "bank",
+        "name": "UBI Banca Popolare di Bergamo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1914567,
+          45.4891198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3188943557",
+      "properties": {
+        "@id": "node/3188943557",
+        "addr:housenumber": "226",
+        "addr:street": "Viale Certosa",
+        "amenity": "bank",
+        "name": "Carige"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1309706,
+          45.4996633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3188963039",
+      "properties": {
+        "@id": "node/3188963039",
+        "addr:housenumber": "182",
+        "addr:street": "Viale Certosa",
+        "amenity": "bank",
+        "name": "Banca Monte dei Paschi di Siena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1351584,
+          45.4977196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3201847444",
+      "properties": {
+        "@id": "node/3201847444",
+        "amenity": "bank",
+        "name": "Banca Popolare di Milano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.154897,
+          45.4565798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3202021303",
+      "properties": {
+        "@id": "node/3202021303",
+        "amenity": "bank",
+        "name": "Credito Artigiano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2151997,
+          45.4531836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3217983534",
+      "properties": {
+        "@id": "node/3217983534",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "23",
+        "addr:postcode": "20124",
+        "addr:street": "Via Fabio Filzi",
+        "amenity": "bank",
+        "name": "UBI Banca Regionale Europea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1995574,
+          45.483593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3253255133",
+      "properties": {
+        "@id": "node/3253255133",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "1/3",
+        "addr:postcode": "20123",
+        "addr:street": "Via San Vittore al Teatro",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Popolare di Lodi",
+        "opening_hours": "Mo-Fr 08:20-13:20,14:30-16:00",
+        "phone": "+39 02 39660035"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1824232,
+          45.4651226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3253255605",
+      "properties": {
+        "@id": "node/3253255605",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "5",
+        "addr:postcode": "20123",
+        "addr:street": "Piazza degli Affari",
+        "amenity": "bank",
+        "email": "milano@centropadana.bcc.it",
+        "name": "Banca Centropadana",
+        "opening_hours": "Mo-Fr 08:35-13:25,14:35-16:15",
+        "phone": "+39 02 72023057"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1826669,
+          45.4650037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3273570475",
+      "properties": {
+        "@id": "node/3273570475",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Intesa San Paolo",
+        "operator": "Intesa San Paolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2067331,
+          45.4742361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3273588696",
+      "properties": {
+        "@id": "node/3273588696",
+        "amenity": "bank",
+        "atm": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2085545,
+          45.4761246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3273588697",
+      "properties": {
+        "@id": "node/3273588697",
+        "amenity": "bank",
+        "atm": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2072074,
+          45.4763323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3308385078",
+      "properties": {
+        "@id": "node/3308385078",
+        "amenity": "bank",
+        "name": "Banca Popolare di Milano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1949048,
+          45.4758837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3310014528",
+      "properties": {
+        "@id": "node/3310014528",
+        "amenity": "bank",
+        "name": "Banca Intesa San Paolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1934389,
+          45.4649801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3310014529",
+      "properties": {
+        "@id": "node/3310014529",
+        "amenity": "bank",
+        "name": "Banca Intesa San Paolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1979321,
+          45.4660875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3312782861",
+      "properties": {
+        "@id": "node/3312782861",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Unicredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1839,
+          45.4779492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3312832827",
+      "properties": {
+        "@id": "node/3312832827",
+        "amenity": "bank",
+        "name": "Cariparma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1822833,
+          45.4780089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3334331791",
+      "properties": {
+        "@id": "node/3334331791",
+        "addr:city": "Milano",
+        "addr:postcode": "20124",
+        "addr:street": "Via Melchiorre Gioia",
+        "amenity": "bank",
+        "name": "Banca Carige",
+        "operator": "Carige"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1996112,
+          45.4886489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3351978679",
+      "properties": {
+        "@id": "node/3351978679",
+        "amenity": "bank",
+        "atm": "yes",
+        "operator": "Barclays"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1712689,
+          45.453248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3373079378",
+      "properties": {
+        "@id": "node/3373079378",
+        "amenity": "bank",
+        "name": "CREDEM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2058795,
+          45.4769417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3373424444",
+      "properties": {
+        "@id": "node/3373424444",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Popolare di Vicenza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2458082,
+          45.4456603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3373431241",
+      "properties": {
+        "@id": "node/3373431241",
+        "amenity": "bank",
+        "name": "Banca Intesa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2445158,
+          45.4456022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3396636405",
+      "properties": {
+        "@id": "node/3396636405",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Credem"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1872392,
+          45.4938657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3396636411",
+      "properties": {
+        "@id": "node/3396636411",
+        "amenity": "bank",
+        "name": "Monte dei Paschi di Siena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1876918,
+          45.4941046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3429944990",
+      "properties": {
+        "@id": "node/3429944990",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "6",
+        "addr:street": "Piazza della Trivulziana",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Popolare di Sondrio",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2126032,
+          45.5149011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3442415265",
+      "properties": {
+        "@id": "node/3442415265",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Popolare di Bari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1687022,
+          45.4778503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3442415266",
+      "properties": {
+        "@id": "node/3442415266",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Popolare di Sondrio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1688013,
+          45.4777808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3442415267",
+      "properties": {
+        "@id": "node/3442415267",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banco di Sardegna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1697237,
+          45.4783799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3463725266",
+      "properties": {
+        "@id": "node/3463725266",
+        "addr:city": "Milano",
+        "addr:housenumber": "14",
+        "addr:postcode": "20133",
+        "addr:street": "Via Lomellina",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banco di Brescia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2303866,
+          45.4633081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3468366664",
+      "properties": {
+        "@id": "node/3468366664",
+        "addr:city": "Milano",
+        "addr:housenumber": "26",
+        "addr:postcode": "20133",
+        "addr:street": "Via Beato Angelico",
+        "alt_name": "bcc",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca di Credito Cooperativo di Carugate",
+        "operator": "BCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2287138,
+          45.4708672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3476206797",
+      "properties": {
+        "@id": "node/3476206797",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "BNL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.221041,
+          45.4814767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3476614357",
+      "properties": {
+        "@id": "node/3476614357",
+        "addr:city": "Milano",
+        "addr:housenumber": "45",
+        "addr:postcode": "20133",
+        "addr:street": "Viale Corsica",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Deutsche Bank",
+        "operator": "Deutsche Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2304619,
+          45.4625289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3501305369",
+      "properties": {
+        "@id": "node/3501305369",
+        "amenity": "bank",
+        "name": "Credito Artigiano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.203668,
+          45.479792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3503711029",
+      "properties": {
+        "@id": "node/3503711029",
+        "addr:city": "Milano",
+        "addr:housenumber": "1",
+        "addr:postcode": "20122",
+        "addr:street": "Via Carlo Freguglia",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Nazionale del Lavoro - Filiale presso Palazzo di Giustizia",
+        "operator": "BNL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2007145,
+          45.4608935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3521819308",
+      "properties": {
+        "@id": "node/3521819308",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "2",
+        "addr:street": "Viale Monte Santo",
+        "amenity": "bank",
+        "name": "UBI Banca Popolare"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1957425,
+          45.4791308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3521820094",
+      "properties": {
+        "@id": "node/3521820094",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "8",
+        "addr:postcode": "20124",
+        "addr:street": "Viale Monte Santo",
+        "amenity": "bank",
+        "name": "Banca Popolare di Sondrio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1944548,
+          45.4797514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3567171034",
+      "properties": {
+        "@id": "node/3567171034",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Unicredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.261517,
+          45.4204148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3567192295",
+      "properties": {
+        "@id": "node/3567192295",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Intesa San Paolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.261659,
+          45.4205051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3578951316",
+      "properties": {
+        "@id": "node/3578951316",
+        "addr:city": "Milano",
+        "addr:housenumber": "4",
+        "addr:postcode": "20125",
+        "addr:street": "Via Emilio De Marchi",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "BPER Banca",
+        "operator": "Banca Popolare dell'Emilia Romagna",
+        "source": "local knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2085822,
+          45.498239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3596083654",
+      "properties": {
+        "@id": "node/3596083654",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Credem"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1412958,
+          45.498355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3598026082",
+      "properties": {
+        "@id": "node/3598026082",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Popolare Milano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1513137,
+          45.4998831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3608491837",
+      "properties": {
+        "@id": "node/3608491837",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Popolare Milano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1507898,
+          45.4928428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3608491838",
+      "properties": {
+        "@id": "node/3608491838",
+        "amenity": "bank",
+        "atm": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1512391,
+          45.4941246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3608719550",
+      "properties": {
+        "@id": "node/3608719550",
+        "amenity": "bank",
+        "name": "Banca Popolare di Sondrio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2067138,
+          45.4686011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3608719551",
+      "properties": {
+        "@id": "node/3608719551",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Barclays"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2067472,
+          45.4683199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3609403079",
+      "properties": {
+        "@id": "node/3609403079",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "BPM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2111596,
+          45.464774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3675020570",
+      "properties": {
+        "@id": "node/3675020570",
+        "amenity": "bank",
+        "name": "UBI Banca Popolare"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1875442,
+          45.476998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3675020820",
+      "properties": {
+        "@id": "node/3675020820",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "30/32",
+        "addr:postcode": "20121",
+        "addr:street": "Via della Moscova",
+        "amenity": "bank",
+        "name": "Banco Desio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1888151,
+          45.4770607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3675022029",
+      "properties": {
+        "@id": "node/3675022029",
+        "amenity": "bank",
+        "name": "UBI Banca Popolare"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1876746,
+          45.4772634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3686989434",
+      "properties": {
+        "@id": "node/3686989434",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "1",
+        "addr:postcode": "20154",
+        "addr:street": "Via Giuseppe Giusti",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Unicredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1794426,
+          45.4804357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3699591229",
+      "properties": {
+        "@id": "node/3699591229",
+        "amenity": "bank",
+        "name": "Credem"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2133278,
+          45.4727928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3719674103",
+      "properties": {
+        "@id": "node/3719674103",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "3",
+        "addr:postcode": "20127",
+        "addr:street": "Via Ponte Vecchio",
+        "amenity": "bank",
+        "atm": "yes",
+        "fax": "+39 02 27000632",
+        "name": "BCC di Sesto San Giovanni",
+        "phone": "+39 02 24111620"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2242383,
+          45.5049013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3719677301",
+      "properties": {
+        "@id": "node/3719677301",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "169",
+        "addr:postcode": "20126",
+        "addr:street": "Viale Monza",
+        "amenity": "bank",
+        "atm": "yes",
+        "fax": "+39 02 26141326",
+        "name": "BPM",
+        "opening_hours": "Mo-Fr 08:30-13:30,14:45-15:45",
+        "phone": "+39 02 26112216"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2214388,
+          45.5025726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3719677465",
+      "properties": {
+        "@id": "node/3719677465",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "158",
+        "addr:postcode": "20127",
+        "addr:street": "Viale Monza",
+        "amenity": "bank",
+        "name": "BNL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2230558,
+          45.5063978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3719677527",
+      "properties": {
+        "@id": "node/3719677527",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "136",
+        "addr:postcode": "20127",
+        "addr:street": "Viale Monza",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Intesa SanPaolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2220175,
+          45.5029818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3726695166",
+      "properties": {
+        "@id": "node/3726695166",
+        "amenity": "bank",
+        "name": "UniCredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1973829,
+          45.4370224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3754111473",
+      "properties": {
+        "@id": "node/3754111473",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Banca Popolare di Sondrio",
+        "name": "Banca Popolare di Sondrio",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.190149,
+          45.4502038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3758916091",
+      "properties": {
+        "@id": "node/3758916091",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "20",
+        "addr:postcode": "20124",
+        "addr:street": "Via Gustavo Fara",
+        "amenity": "bank",
+        "fax": "+39 02 66983595",
+        "name": "Cariparma",
+        "phone": "+39 02 6672121"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1985156,
+          45.4837982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3758916092",
+      "properties": {
+        "@id": "node/3758916092",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "19",
+        "addr:postcode": "20124",
+        "addr:street": "Via Giovanni Battista Pirelli",
+        "amenity": "bank",
+        "name": "Deutsche Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1988576,
+          45.4838398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3770135765",
+      "properties": {
+        "@id": "node/3770135765",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "46",
+        "addr:postcode": "20124",
+        "addr:street": "Via Luigi Settembrini",
+        "amenity": "bank",
+        "name": "Banca Popolare di Lodi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2081588,
+          45.4836363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3780582092",
+      "properties": {
+        "@id": "node/3780582092",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "2",
+        "addr:postcode": "20125",
+        "addr:street": "Via Giuseppe Bottelli",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "BPM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2109768,
+          45.5031093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3799689656",
+      "properties": {
+        "@id": "node/3799689656",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "39",
+        "addr:postcode": "20121",
+        "addr:street": "Via della Moscova",
+        "amenity": "bank",
+        "name": "BNL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1849626,
+          45.4775313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3799690265",
+      "properties": {
+        "@id": "node/3799690265",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "44",
+        "addr:postcode": "20121",
+        "addr:street": "Via della Moscova",
+        "amenity": "bank",
+        "name": "Monte dei Paschi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.186115,
+          45.477534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3844576666",
+      "properties": {
+        "@id": "node/3844576666",
+        "amenity": "bank",
+        "name": "Banco Desio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2032351,
+          45.4536803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3848621433",
+      "properties": {
+        "@id": "node/3848621433",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "8",
+        "addr:postcode": "20124",
+        "addr:street": "Piazza Duca d'Aosta",
+        "amenity": "bank",
+        "name": "BPM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2039766,
+          45.4837094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3848621675",
+      "properties": {
+        "@id": "node/3848621675",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:postcode": "20124",
+        "addr:street": "Piazza Duca d'Aosta",
+        "amenity": "bank",
+        "name": "Intesa Sanpaolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2027472,
+          45.4837319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3898715847",
+      "properties": {
+        "@id": "node/3898715847",
+        "amenity": "bank",
+        "name": "Banca Popolare di Sondrio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2266287,
+          45.4859352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3911322793",
+      "properties": {
+        "@id": "node/3911322793",
+        "amenity": "bank",
+        "name": "Intesa Sanpaolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2268627,
+          45.4766734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3911419258",
+      "properties": {
+        "@id": "node/3911419258",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Barclays"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2081772,
+          45.4767506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3911419259",
+      "properties": {
+        "@id": "node/3911419259",
+        "amenity": "bank",
+        "name": "UBI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2080592,
+          45.4766311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3927968209",
+      "properties": {
+        "@id": "node/3927968209",
+        "amenity": "bank",
+        "name": "Intesa San Paolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2746845,
+          45.4132209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3988551224",
+      "properties": {
+        "@id": "node/3988551224",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Intesa San Paolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1226141,
+          45.4169837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3988551228",
+      "properties": {
+        "@id": "node/3988551228",
+        "amenity": "bank",
+        "name": "Banca C.R. Asti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1220335,
+          45.4177181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3988551233",
+      "properties": {
+        "@id": "node/3988551233",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Carige"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1202215,
+          45.4208291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3991744036",
+      "properties": {
+        "@id": "node/3991744036",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "12",
+        "addr:postcode": "20122",
+        "addr:street": "Via Santa Sofia",
+        "amenity": "bank",
+        "name": "Banca Popolare di Sondrio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1915026,
+          45.4574241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3991744044",
+      "properties": {
+        "@id": "node/3991744044",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "7",
+        "addr:postcode": "20122",
+        "addr:street": "Via Larga",
+        "amenity": "bank",
+        "name": "Credito Artigiano",
+        "opening_hours": "Mo-Fr 08:30-13:30,14:45-16:30",
+        "phone": "+39 02 58307202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1935822,
+          45.4618316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3991745675",
+      "properties": {
+        "@id": "node/3991745675",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "78",
+        "addr:postcode": "20122",
+        "addr:street": "Corso di Porta Romana",
+        "amenity": "bank",
+        "name": "Intesa Sanpaolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1949258,
+          45.4564031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3991745995",
+      "properties": {
+        "@id": "node/3991745995",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "2",
+        "addr:postcode": "20122",
+        "addr:street": "Via Pantano",
+        "amenity": "bank",
+        "name": "BNL",
+        "phone": "+39 02 80241"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1909667,
+          45.4602291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3991745996",
+      "properties": {
+        "@id": "node/3991745996",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "23",
+        "addr:postcode": "20122",
+        "addr:street": "Via Larga",
+        "amenity": "bank",
+        "name": "Banca Popolare di Lodi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1917537,
+          45.4609697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3991745997",
+      "properties": {
+        "@id": "node/3991745997",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "4",
+        "addr:postcode": "21022",
+        "addr:street": "Piazza Velasca",
+        "amenity": "bank",
+        "fax": "+39 02 72010799",
+        "name": "Cariparma",
+        "opening_hours": "Mo-Fr 08:25-13:25,14:45-16:00",
+        "phone": "+39 02 8693338"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1901086,
+          45.460162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3991747643",
+      "properties": {
+        "@id": "node/3991747643",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "57",
+        "addr:postcode": "20122",
+        "addr:street": "Corso di Porta Romana",
+        "amenity": "bank",
+        "name": "UBI Banca Popolare"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1947818,
+          45.4568259
+        ]
+      }
+    }
+  ]
+}
