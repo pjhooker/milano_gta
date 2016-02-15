@@ -1,0 +1,554 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-15T17:08:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/980590754",
+      "properties": {
+        "@id": "node/980590754",
+        "amenity": "school",
+        "leisure": "hackerspace",
+        "name": "Spazio \"Promozione Software Libero e assistenza\"",
+        "website": "http://www.avilug.it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3564967,
+          45.7130721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2199558639",
+      "properties": {
+        "@id": "node/2199558639",
+        "club": "linux",
+        "leisure": "hackerspace",
+        "name": "LIFO (Laboratorio di Informatica Free e Open)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8486464,
+          45.8016374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2352646085",
+      "properties": {
+        "@id": "node/2352646085",
+        "alt_name": "TRicicloPC",
+        "amenity": "community_centre",
+        "leisure": "hackerspace",
+        "name": "Ferrara Linux User Group - FELUG",
+        "website": "http://ferrara.linux.it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7356471,
+          44.7824582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2755830341",
+      "properties": {
+        "@id": "node/2755830341",
+        "amenity": "coworking_space",
+        "name": "SpazioA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1872503,
+          45.4887455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2796050838",
+      "properties": {
+        "@id": "node/2796050838",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "12",
+        "addr:postcode": "3007",
+        "addr:street": "Eigerstrasse",
+        "alt_name": "Fab Lab - Fabrication Laboratory Bern",
+        "contact:email": "info@fablab-bern.ch",
+        "contact:phone": "+41 79 5973560",
+        "contact:website": "http://fablab-bern.ch/kontakt/",
+        "leisure": "hackerspace",
+        "name": "FabLab",
+        "opening_hours": "Mo-Th off; Fr 14:00-20:00; Sa-Su off",
+        "source": "website",
+        "website": "http://www.fablab-bern.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4328177,
+          46.9403532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2831389692",
+      "properties": {
+        "@id": "node/2831389692",
+        "leisure": "hackerspace",
+        "name": "Faberlab Tradate",
+        "website": "http://www.faberlab.org/",
+        "workshop": "fablab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9052456,
+          45.7034733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2922943562",
+      "properties": {
+        "@id": "node/2922943562",
+        "addr:city": "Fribourg",
+        "addr:country": "CH",
+        "addr:housenumber": "2",
+        "addr:postcode": "1700",
+        "addr:street": "Route de la Fonderie",
+        "amenity": "coworking_space",
+        "brand": "Colab",
+        "contact:email": "info@colab-fribourg.ch",
+        "contact:facebook": "https://www.facebook.com/ColabFribourg",
+        "contact:phone": "+41 79 3514994",
+        "fee": "yes",
+        "name": "Colab Fribourg",
+        "name:de": "Colab Freiburg",
+        "office": "it",
+        "opening_hours:url": "http://www.colab-fribourg.ch/#offer",
+        "operator": "CROMAGNON, Philippe Lang (Entreprise individuelle)",
+        "source": "survey and website",
+        "website": "http://www.colab-fribourg.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1546644,
+          46.7942404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2944117537",
+      "properties": {
+        "@id": "node/2944117537",
+        "addr:city": "Milano",
+        "addr:country": "IT",
+        "addr:housenumber": "28",
+        "addr:street": "Via privata Stefanardo da Vimercate",
+        "amenity": "coworking_space",
+        "building:use": "office",
+        "email": "hello@coworkinglogin.it",
+        "name": "Coworking LOGIN",
+        "opening_hours": "Mo-Fr 08:00-22:30;Sa 08:00-13:00;Su closed",
+        "phone": "+39 02 2551 4300",
+        "website": "http://www.coworkinglogin.it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2281176,
+          45.506526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3010509301",
+      "properties": {
+        "@id": "node/3010509301",
+        "addr:city": "Torino",
+        "addr:housenumber": "2",
+        "addr:postcode": "10134",
+        "addr:street": "Via Agostino Da Montefeltro",
+        "amenity": "coworking_space",
+        "building": "office",
+        "designation": "Coworking",
+        "email": "aureliobalestra@toolboxoffice.it",
+        "name": "Toolbox Coworking",
+        "office": "coworking",
+        "phone": "+39 011 31 57 111",
+        "source": "Guida pratica all'ecosistema della creazione di impresa",
+        "tool": "entrepreneurship",
+        "website": "www.toolboxcoworking.it",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6691335,
+          45.0502511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3194891678",
+      "properties": {
+        "@id": "node/3194891678",
+        "addr:housenumber": "1",
+        "addr:street": "Via Antonio Pigafetta",
+        "amenity": "coworking_space",
+        "name": "GoPIGAGo",
+        "note": "Antonio Pigafetta è un navigatore del 1500 che partecipò alla prima circumnavigazione del globo. Da qui parte la nostra idea di coworking come un porto di raccolta e condivisione delle idee, di contaminazione e di passaggio. Chiunque passa da qui da il su",
+        "website": "http://gopigago.altervista.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.968964,
+          45.4453161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3221956838",
+      "properties": {
+        "@id": "node/3221956838",
+        "addr:city": "Torino",
+        "addr:country": "IT",
+        "addr:housenumber": "3",
+        "addr:postcode": "10122",
+        "addr:street": "Via Allioni",
+        "amenity": "coworking_space",
+        "description": "coworking space",
+        "email": "matteo@torino.talentgarden.org",
+        "indoor": "yes",
+        "interaction": "cousing",
+        "name": "Talent Garden",
+        "phone": "+39 340 2668788",
+        "provides": "learning_opportunities;community;participation",
+        "source": "Guida pratica all'ecosistema della creazione di impresa",
+        "tool": "entrepreneurship",
+        "website": "www.talentgarden.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6714161,
+          45.0767878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3269707069",
+      "properties": {
+        "@id": "node/3269707069",
+        "addr:city": "Alessandria",
+        "addr:housenumber": "17",
+        "addr:postcode": "15121",
+        "addr:street": "Via Verona",
+        "amenity": "coworking_space",
+        "building": "yes",
+        "designation": "Coworking",
+        "email": "host@lab121.org",
+        "name": "Centro di Coworking LAB121",
+        "phone": "+39 388 9571115",
+        "source": "Guida pratica all'ecosistema della creazione di impresa",
+        "tool": "entrepreneurship",
+        "website": "www.lab121.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6139761,
+          44.9159987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3297120546",
+      "properties": {
+        "@id": "node/3297120546",
+        "addr:city": "Torino",
+        "addr:housenumber": "19",
+        "addr:postcode": "10124",
+        "addr:street": "Via Cesare Balbo",
+        "amenity": "coworking_space",
+        "building": "office",
+        "email": "info@spazio19.it",
+        "name": "Spazio19 Coworking",
+        "office": "coworking",
+        "phone": "+39 011 19824899",
+        "smoking": "outside",
+        "source": "Guida pratica all'ecosistema creazione di impresa",
+        "tool": "entrepreneurship",
+        "website": "http://spazio19.it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7012473,
+          45.0694943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3316533500",
+      "properties": {
+        "@id": "node/3316533500",
+        "addr:city": "Milano",
+        "addr:housenumber": "70",
+        "addr:postcode": "20137",
+        "addr:street": "Via Tertulliano",
+        "leisure": "hackerspace",
+        "name": "opendot s.r.l.",
+        "note": "Siamo un network di differenti professionalità, eterogeneo e multidisciplinare.",
+        "phone": "+39 02 36519890",
+        "source": "http://www.opendotlab.it",
+        "website": "http://www.opendotlab.it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2219729,
+          45.4479324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3316536818",
+      "properties": {
+        "@id": "node/3316536818",
+        "leisure": "hackerspace",
+        "name": "G.U.L.L.P."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7061281,
+          45.6297481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3329817693",
+      "properties": {
+        "@id": "node/3329817693",
+        "addr:city": "Torino",
+        "addr:country": "IT",
+        "addr:housenumber": "16",
+        "addr:postcode": "10125",
+        "addr:street": "Via Cesare Lombroso",
+        "amenity": "coworking_space",
+        "email": "info@lombroso16.it",
+        "name": "Polo Culturale Lombroso 16",
+        "phone": "+39 393 2191838",
+        "source": "Guida pratica all'ecosistema della creazione di impresa",
+        "tool": "entrepreneurship",
+        "website": "http://www.lombroso16.it",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6825849,
+          45.0562028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3334019981",
+      "properties": {
+        "@id": "node/3334019981",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "58",
+        "addr:postcode": "3011",
+        "addr:street": "Kramgasse",
+        "amenity": "coworking_space",
+        "contact:email": "info@urbanfish.ch",
+        "contact:facebook": "https://www.facebook.com/urbanfishcoworkingspace",
+        "contact:fax": "+41 31 5443004",
+        "contact:phone": "+41 31 5443003",
+        "fee": "yes",
+        "name": "Urbanfish",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa-Su off",
+        "operator": "Priscilla Wolf",
+        "source": "survey and website",
+        "website": "http://www.urbanfish.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4495106,
+          46.9481973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3361256416",
+      "properties": {
+        "@id": "node/3361256416",
+        "addr:city": "Torino",
+        "addr:housename": "Centro multifunzionale lingotto:complesso 8 Gallery",
+        "addr:housenumber": "239",
+        "addr:postcode": "10100",
+        "addr:street": "Via Nizza",
+        "amenity": "coworking_space",
+        "building": "office",
+        "email": "s.alagna@campluscityheart.it",
+        "name": "Cowo Torino/Lingotto",
+        "phone": "+39 011 6939393",
+        "source": "Guida pratica all'ecosistema della creazione di impresa",
+        "tool": "entrepreneurship",
+        "website": "http://www.coworkingproject.com/coworking-network/torino-lingotto/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6670146,
+          45.0315961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3361416998",
+      "properties": {
+        "@id": "node/3361416998",
+        "addr:city": "Torino",
+        "addr:housenumber": "55",
+        "addr:postcode": "10125",
+        "addr:street": "Via Belfiore",
+        "amenity": "coworking_space",
+        "building": "office",
+        "designation": "Coworking",
+        "email": "info@coworkingtorino.com",
+        "name": "Cowo Torino/To work",
+        "phone": "+39 011 6689082",
+        "source": "Guida pratica all'ecosistema della creazione di impresa",
+        "tool": "entrepreneurship"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6777701,
+          45.0520895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3361527620",
+      "properties": {
+        "@id": "node/3361527620",
+        "addr:city": "Verduro",
+        "addr:housename": "Stile Divino Travel",
+        "addr:housenumber": "37",
+        "addr:postcode": "12060",
+        "addr:street": "Via Vittorio Emanuele II",
+        "amenity": "coworking_space",
+        "building": "yes",
+        "designation": "Coworking",
+        "email": "info@stiledivinotravel.com",
+        "name": "Cowo Verduro/Cuneo",
+        "phone": "+39 0172 1773002",
+        "source": "Guida pratica all'ecosistema della creazione di impresa",
+        "tool": "entrepreneurship",
+        "website": "http://www.coworkingproject.com/coworking-network/verduno-cuneo/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9298617,
+          44.6658471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3481007270",
+      "properties": {
+        "@id": "node/3481007270",
+        "addr:city": "Lausanne",
+        "addr:housenumber": "7",
+        "addr:postcode": "1006",
+        "addr:street": "Rue du Liseron 7",
+        "amenity": "coworking_space",
+        "name": "Work'N'Share coworking space",
+        "website": "http://worknshare.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.62622,
+          46.5082636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3844497966",
+      "properties": {
+        "@id": "node/3844497966",
+        "addr:housenumber": "16",
+        "addr:street": "Calata Andalò di Negro",
+        "amenity": "coworking_space",
+        "name": "Condiviso",
+        "website": "http://condiviso.coop/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9245307,
+          44.4130442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3983670577",
+      "properties": {
+        "@id": "node/3983670577",
+        "addr:city": "Milano",
+        "addr:housenumber": "16",
+        "addr:street": "Via Merano",
+        "amenity": "coworking_space",
+        "name": "Talent Garden",
+        "phone": "+39 392 913 4567",
+        "website": "http://milano-merano.talentgarden.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2212993,
+          45.4973191
+        ]
+      }
+    }
+  ]
+}
