@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="it-IT" prefix="og: http://ogp.me/ns#" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+
+	<title>GTA Milano</title>
+
+	<!-- gangster by Santiago Arias from the Noun Project -->
+	<link rel="apple-touch-icon" sizes="76x76" href="http://www.cityplanner.it/supply/icon_web/set2/noun_155504_cc.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="http://www.cityplanner.it/supply/icon_web/set2/noun_155504_cc.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="http://www.cityplanner.it/supply/icon_web/set2/noun_155504_cc.png">
+	<link rel="icon" sizes="196x196" href="http://www.cityplanner.it/supply/icon_web/set2/noun_155504_cc.png">
+
+
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+
+	<!-- Optional theme -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap-theme.min.css">
+	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.5/leaflet.css" /> <!-- we will us e this as the styling script for our webmap-->
+	<link rel="stylesheet" type="text/css" href="http://www.cityplanner.it/experiment_host/php/qgis2leaf/main_map/css/own_style_full.css">
+
+	<!-- javascript -->
+	<!-- jQuery Core & UI-->
+	<script src="https://code.jquery.com/jquery-2.1.4.js"></script>
+	<script src="https://code.jquery.com/jquery-1.11.3.js"></script>
+
+	<script src="http://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script> <!-- this is the javascript file that does the magic-->
+
+	<!-- JS style function for geometry -->
+	<script src="http://www.cityplanner.it/experiment_host/supply/js/style/geometry_milanogta_style.js"></script>
+
+
+</head>
+
+<body>
+
+	<div id="map"></div>
+
+	<script>
+		var map = L.map('map').setView([45.4654219,9.18592430000001], 12);
+		var additional_attrib = 'created w. <a href="https://github.com/geolicious/qgis2leaf" target ="_blank">qgis2leaf</a> by <a href="http://www.geolicious.de" target ="_blank">Geolicious</a> & contributors<br>';
+
+		var basemap_0 = L.tileLayer('http://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}.png', {
+			attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="http://cartodb.com/attributions">CartoDB</a>',
+			subdomains: 'abcd',
+			minZoom: 0,
+			maxZoom: 18
+		});
+		basemap_0.addTo(map);
+
+		var layerOrder=new Array();
+
+	  var pointservice_group = new L.featureGroup();
+		var confine_group = new L.featureGroup();
+
+		var repository_milano ='http://www.cityplanner.it/experiment_host/supply/geojson/milano/';
+
+
+
+		$.getJSON("https://raw.githubusercontent.com/pjhooker/milano_gta/master/geodata/pl_highway.geojson", function(data) {
+
+			var geojson = L.geoJson(data,{onEachFeature: LineStreet});
+			pointservice_group.addLayer(geojson);
+
+			map.addLayer(pointservice_group);
+
+		});
+
+		// DATA confine_generalized
+		$.getJSON("https://raw.githubusercontent.com/pjhooker/milano_gta/master/geodata/pg_confine_generalized.geojson", function(data) {
+
+			var geojson = L.geoJson(data,{onEachFeature: LineConfine});
+	    confine_group.addLayer(geojson);
+			var geojson = L.geoJson(data,{onEachFeature: LineConfineBuffer});
+	    confine_group.addLayer(geojson);
+
+	    map.addLayer(confine_group);
+			map.fitBounds(confine_group.getBounds());
+
+		});
+
+		// DATA amenity_coworking_space
+		$.getJSON("https://raw.githubusercontent.com/pjhooker/milano_gta/master/geodata/amenity_coworking_space.geojson", function(data) {
+
+			var geojson = L.geoJson(data,{pointToLayer: IconHackLab});
+	    pointservice_group.addLayer(geojson);
+	    map.addLayer(pointservice_group);
+
+		});
+
+		// DATA news_rapina
+	  $.getJSON("pt_news_rapina_geojson.php", function(data) {
+
+			var geojson = L.geoJson(data,{pointToLayer: IconCrimeNews});
+	    pointservice_group.addLayer(geojson);
+	    map.addLayer(pointservice_group);
+
+		});
+
+		// DATA amenity_bank
+		$.getJSON("https://raw.githubusercontent.com/pjhooker/milano_gta/master/geodata/amenity_bank.geojson", function(data) {
+
+			var geojson = L.geoJson(data,{pointToLayer: IconBank});
+	    pointservice_group.addLayer(geojson);
+	    map.addLayer(pointservice_group);
+
+		});
+
+		// DATA amenity_pharmacy
+		$.getJSON("https://raw.githubusercontent.com/pjhooker/milano_gta/master/geodata/amenity_pharmacy.geojson", function(data) {
+
+			var geojson = L.geoJson(data,{pointToLayer: IconPharma});
+	    pointservice_group.addLayer(geojson);
+	    map.addLayer(pointservice_group);
+
+		});
+
+		// DATA emergency
+		$.getJSON("https://raw.githubusercontent.com/pjhooker/milano_gta/master/geodata/emergency.geojson", function(data) {
+
+			var geojson = L.geoJson(data,{pointToLayer: IconEmergency});
+	    pointservice_group.addLayer(geojson);
+	    map.addLayer(pointservice_group);
+
+	  });
+
+		// DATA checkpoint
+		$.getJSON("https://raw.githubusercontent.com/pjhooker/milano_gta/master/geodata/pt_checkpoint.geojson", function(data) {
+
+			var geojson = L.geoJson(data,{pointToLayer: IconCheckPoint2});
+			pointservice_group.addLayer(geojson);
+			var geojson = L.geoJson(data,{pointToLayer: IconCheckPoint});
+			pointservice_group.addLayer(geojson);
+
+			map.addLayer(pointservice_group);
+		});
+
+		var baseMaps = {
+			'OSM Standard': basemap_0};
+		//L.control.layers(baseMaps,{collapsed:false}).addTo(map);
+		//L.control.scale({options: {position: 'bottomleft',maxWidth: 100,metric: true,imperial: false,updateWhenIdle: false}}).addTo(map);
+	</script>
+
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+
+</body>
+</html>
