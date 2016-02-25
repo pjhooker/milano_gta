@@ -1,0 +1,183 @@
+{ "features" : [  { "geometry" : { "coordinates" : [9.222850799560547,45.50213605159991],"type" : "Point"},
+            "properties" : { "postid":"5926", "picture":"http://www.cityplanner.it/natural_tree/wp-content/uploads/2015/10/14442350182562006250565-150x150.jpg","titolo":"Tutti al Coworking!","url_post":"http://www.cityplanner.it/natural_tree/tutti-al-coworking/",
+            "content" : "","source_url" : ""
+            },"type" : "Feature"}
+          , { "geometry" : { "coordinates" : [8.9596027135849,45.55353197390198],"type" : "Point"},
+            "properties" : { "postid":"5273", "picture":"http://www.cityplanner.it/natural_tree/wp-content/uploads/2015/09/Scheda-N8-Parco-Crivelli-Cedro-cm-336-150x150.png","titolo":"Cedro Parco Crivelli n8","url_post":"http://www.cityplanner.it/natural_tree/cedro-parco-crivelli-3/",
+            "content" : "","source_url" : ""
+            },"type" : "Feature"}
+          , { "geometry" : { "coordinates" : [8.95885169506073,45.55342679477647],"type" : "Point"},
+            "properties" : { "postid":"5271", "picture":"http://www.cityplanner.it/natural_tree/wp-content/uploads/2015/09/Scheda-N8-Parco-Crivelli-Cedro-cm-384-150x150.png","titolo":"Cedro Parco Crivelli n8","url_post":"http://www.cityplanner.it/natural_tree/cedro-parco-crivelli-2/",
+            "content" : "","source_url" : ""
+            },"type" : "Feature"}
+          , { "geometry" : { "coordinates" : [8.958921432495117,45.5532840513627],"type" : "Point"},
+            "properties" : { "postid":"5266", "picture":"http://www.cityplanner.it/natural_tree/wp-content/uploads/2015/09/Scheda-N8-Parco-Crivelli-Cedro-cm-470-150x150.png","titolo":"Cedro Parco Crivelli n8","url_post":"http://www.cityplanner.it/natural_tree/cedro-parco-crivelli/",
+            "content" : "","source_url" : ""
+            },"type" : "Feature"}
+          , { "geometry" : { "coordinates" : [8.947066068649292,45.56727118267479],"type" : "Point"},
+            "properties" : { "postid":"5263", "picture":"http://www.cityplanner.it/natural_tree/wp-content/uploads/2015/09/Scheda-N7-Via-Alfieri-Pioppo-Nero-cm-412-150x150.png","titolo":"Pioppo Nero via Alfieri n7","url_post":"http://www.cityplanner.it/natural_tree/pioppo-nero-via-alfieri-2/",
+            "content" : "","source_url" : ""
+            },"type" : "Feature"}
+          , { "geometry" : { "coordinates" : [8.946819305419922,45.56701956526081],"type" : "Point"},
+            "properties" : { "postid":"5260", "picture":"http://www.cityplanner.it/natural_tree/wp-content/uploads/2015/09/Scheda-N7-Via-Alfieri-Pioppo-Nero-cm-354-150x150.png","titolo":"Pioppo Nero via Alfieri n7","url_post":"http://www.cityplanner.it/natural_tree/pioppo-nero-via-alfieri/",
+            "content" : "","source_url" : ""
+            },"type" : "Feature"}
+          , { "geometry" : { "coordinates" : [8.948965072631836,45.56700829878308],"type" : "Point"},
+            "properties" : { "postid":"5257", "picture":"http://www.cityplanner.it/natural_tree/wp-content/uploads/2015/09/Scheda-N6-Via-P.-Amedeo-Platano-cm-381-150x150.png","titolo":"Platano via Principe Amedeo n6","url_post":"http://www.cityplanner.it/natural_tree/platano-via-principe-amedeo/",
+            "content" : "","source_url" : ""
+            },"type" : "Feature"}
+          , { "geometry" : { "coordinates" : [8.95359992980957,45.55450111515236],"type" : "Point"},
+            "properties" : { "postid":"5254", "picture":"http://www.cityplanner.it/natural_tree/wp-content/uploads/2015/09/Scheda-N5-Riale-Platano-cm-518-150x150.png","titolo":"Platano Riale n5","url_post":"http://www.cityplanner.it/natural_tree/platano-riale/",
+            "content" : "","source_url" : ""
+            },"type" : "Feature"}
+          , { "geometry" : { "coordinates" : [8.955981731414795,45.5660318621283],"type" : "Point"},
+            "properties" : { "postid":"5249", "picture":"http://www.cityplanner.it/natural_tree/wp-content/uploads/2015/09/Scheda-N4-Sponda-Sx-Olona-3-Platani-150x150.png","titolo":"Platani n4","url_post":"http://www.cityplanner.it/natural_tree/platani/",
+            "content" : "","source_url" : ""
+            },"type" : "Feature"}
+          , { "geometry" : { "coordinates" : [8.953444361686707,45.567368824949796],"type" : "Point"},
+            "properties" : { "postid":"5245", "picture":"http://www.cityplanner.it/natural_tree/wp-content/uploads/2015/09/Scheda-N3-Sponda-Sx-Olona-Pioppo-Nero-cm-428-150x150.png","titolo":"Pioppo nero n3","url_post":"http://www.cityplanner.it/natural_tree/pioppo-nero/",
+            "content" : "","source_url" : ""
+            },"type" : "Feature"}
+          , { "geometry" : { "coordinates" : [8.952065706253052,45.570343077534616],"type" : "Point"},
+            "properties" : { "postid":"5242", "picture":"http://www.cityplanner.it/natural_tree/wp-content/uploads/2015/09/Scheda-N2-Isolino-Pioppo-Nero-cm-290-150x150.png","titolo":"Pioppo nero Isolino n2","url_post":"http://www.cityplanner.it/natural_tree/pioppo-nero-isolino/",
+            "content" : "","source_url" : ""
+            },"type" : "Feature"}
+          , { "geometry" : { "coordinates" : [8.952054977416992,45.56954695465267],"type" : "Point"},
+            "properties" : { "postid":"5235", "picture":"http://www.cityplanner.it/natural_tree/wp-content/uploads/2015/09/Scheda-N1-Isolino-Platano-cm365-150x150.png","titolo":"Platano Isolino n1","url_post":"http://www.cityplanner.it/natural_tree/platano-isolino/",
+            "content" : "","source_url" : ""
+            },"type" : "Feature"}
+          , { "geometry" : { "coordinates" : [8.940553665161133,45.57024168515313],"type" : "Point"},
+            "properties" : { "postid":"4922", "picture":"http://www.cityplanner.it/natural_tree/wp-content/uploads/2015/07/IMG_20150704_143709-150x150.jpg","titolo":"Grande quercia","url_post":"http://www.cityplanner.it/natural_tree/grande-quercia/",
+            "content" : "","source_url" : ""
+            },"type" : "Feature"}
+          , { "geometry" : { "coordinates" : [9.1972598888889,45.473937972222],"type" : "Point"},
+            "properties" : { "postid":"4746", "picture":"http://www.cityplanner.it/natural_tree/wp-content/uploads/2015/06/IMG_20150624_135614-150x150.jpg","titolo":"Big trees","url_post":"http://www.cityplanner.it/natural_tree/big-trees/",
+            "content" : "","source_url" : ""
+            },"type" : "Feature"}
+          , { "geometry" : { "coordinates" : [8.951538628311141,45.5948442357616],"type" : "Point"},
+            "properties" : { "postid":"4725", "picture":"http://www.cityplanner.it/natural_tree/wp-content/uploads/2015/06/IMG_20150612_213142-150x150.jpg","titolo":"Cedro a Cerro Maggiore","url_post":"http://www.cityplanner.it/natural_tree/cedro-a-cerro-maggiore/",
+            "content" : "","source_url" : ""
+            },"type" : "Feature"}
+          , { "geometry" : { "coordinates" : [8.924682,45.584624],"type" : "Point"},
+            "properties" : { "postid":"3891", "picture":"http://www.cityplanner.it/natural_tree/wp-content/uploads/2015/04/punto_7_1410452599432-150x150.jpg","titolo":"Punto 7","url_post":"http://www.cityplanner.it/natural_tree/punto-7-2/",
+            "content" : "","source_url" : ""
+            },"type" : "Feature"}
+          , { "geometry" : { "coordinates" : [8.92457,45.584623],"type" : "Point"},
+            "properties" : { "postid":"3887", "picture":"http://www.cityplanner.it/natural_tree/wp-content/uploads/2015/04/punto_2_1410451110792-150x150.jpg","titolo":"Cedro dell&#8217;hiimalaya","url_post":"http://www.cityplanner.it/natural_tree/cedro-dellhiimalaya/",
+            "content" : "","source_url" : ""
+            },"type" : "Feature"}
+          , { "geometry" : { "coordinates" : [8.32308773755642,45.00475224318677],"type" : "Point"},
+            "properties" : { "postid":"3442", "picture":"http://www.cityplanner.it/natural_tree/wp-content/uploads/2014/10/Bialbero_di_Casorzo-150x150.jpg","titolo":"Bialbero Casorzo","url_post":"http://www.cityplanner.it/natural_tree/bialbero-casorzo/",
+            "content" : "","source_url" : "http://www.monferratopaesaggi.org/?p=7829"
+            },"type" : "Feature"}
+          , { "geometry" : { "coordinates" : [7.961623147360228,44.64178489439129],"type" : "Point"},
+            "properties" : { "postid":"3435", "picture":"","titolo":"Tree father﻿ &#8211; Cedro Monfaletto","url_post":"http://www.cityplanner.it/natural_tree/tree-father%ef%bb%bf-cedro-monfaletto/",
+            "content" : "","source_url" : "http://www.corderodimontezemolo.it/pagine/ita/azienda/cedro.lasso"
+            },"type" : "Feature"}
+          , { "geometry" : { "coordinates" : [7.961623147360228,44.64178489439129],"type" : "Point"},
+            "properties" : { "postid":"3269", "picture":"","titolo":"L&#8217;albero a stivale Crimea, Topolevka","url_post":"http://www.cityplanner.it/natural_tree/lalbero-stivale/",
+            "content" : "","source_url" : "http://websta.me/p/762123241297816896_48892058"
+            },"type" : "Feature"}
+          , { "geometry" : { "coordinates" : [7.961623147360228,44.64178489439129],"type" : "Point"},
+            "properties" : { "postid":"3265", "picture":"","titolo":"Alla scoperta di &#8230;","url_post":"http://www.cityplanner.it/natural_tree/scoperta/",
+            "content" : "","source_url" : "http://instagram.com/p/sDhghUQTUR"
+            },"type" : "Feature"}
+          , { "geometry" : { "coordinates" : [8.925207870044687,45.58413630104775],"type" : "Point"},
+            "properties" : { "postid":"3192", "picture":"http://www.cityplanner.it/natural_tree/wp-content/uploads/2014/09/punto_3_14104512228933-150x150.jpg","titolo":"Bagolari (gruppo di 5)","url_post":"http://www.cityplanner.it/natural_tree/5-bagolari/",
+            "content" : "","source_url" : ""
+            },"type" : "Feature"}
+          , { "geometry" : { "coordinates" : [8.922589,45.583478],"type" : "Point"},
+            "properties" : { "postid":"3171", "picture":"http://www.cityplanner.it/natural_tree/wp-content/uploads/2014/09/punto_29_1410448551610-150x150.jpg","titolo":"Cedro dell&#8217;Himalaya (gruppo)","url_post":"http://www.cityplanner.it/natural_tree/cedro-hiimalaya-gruppo-2/",
+            "content" : "","source_url" : ""
+            },"type" : "Feature"}
+          , { "geometry" : { "coordinates" : [8.921578,45.585535],"type" : "Point"},
+            "properties" : { "postid":"3143", "picture":"http://www.cityplanner.it/natural_tree/wp-content/uploads/2014/09/punto_1_1410442072274-150x150.jpg","titolo":"1058 Pinus wallichiana","url_post":"http://www.cityplanner.it/natural_tree/1058-pinus-valechiana-2/",
+            "content" : "","source_url" : ""
+            },"type" : "Feature"}
+          , { "geometry" : { "coordinates" : [8.920914,45.58553],"type" : "Point"},
+            "properties" : { "postid":"3147", "picture":"","titolo":"Punto 5","url_post":"http://www.cityplanner.it/natural_tree/punto-5-2/",
+            "content" : "","source_url" : ""
+            },"type" : "Feature"}
+          , { "geometry" : { "coordinates" : [8.921789,45.58491],"type" : "Point"},
+            "properties" : { "postid":"3158", "picture":"http://www.cityplanner.it/natural_tree/wp-content/uploads/2014/09/punto_16_1410445271162-150x150.jpg","titolo":"Cedro dell&#8217;Himalaya (id573)","url_post":"http://www.cityplanner.it/natural_tree/573-cedro-dellhimalaya-2/",
+            "content" : "","source_url" : ""
+            },"type" : "Feature"}
+          , { "geometry" : { "coordinates" : [8.921840019851743,45.58505877746821],"type" : "Point"},
+            "properties" : { "postid":"3160", "picture":"http://www.cityplanner.it/natural_tree/wp-content/uploads/2014/09/punto_18_1410445702167-150x150.jpg","titolo":"Ginko (id:539)","url_post":"http://www.cityplanner.it/natural_tree/539-ginko-2/",
+            "content" : "","source_url" : ""
+            },"type" : "Feature"}
+          , { "geometry" : { "coordinates" : [-118.17889630000002,37.38560349999999],"type" : "Point"},
+            "properties" : { "postid":"2127", "picture":"","titolo":"Ancient Bristlecone Pines","url_post":"http://www.cityplanner.it/natural_tree/ancient-bristlecone-pines/",
+            "content" : "","source_url" : ""
+            },"type" : "Feature"}
+          , { "geometry" : { "coordinates" : [8.72121919741437,45.680170815823054],"type" : "Point"},
+            "properties" : { "postid":"2122", "picture":"","titolo":"I tre giganti di Somma","url_post":"http://www.cityplanner.it/natural_tree/i-giganti-somma/",
+            "content" : "","source_url" : ""
+            },"type" : "Feature"}
+          , { "geometry" : { "coordinates" : [9.196150486724832,45.46000977924949],"type" : "Point"},
+            "properties" : { "postid":"2089", "picture":"","titolo":"Al Giardino più bello di Milano","url_post":"http://www.cityplanner.it/natural_tree/giardino-bello-milano/",
+            "content" : "","source_url" : "http://www.yelp.it/biz_photos/giardino-della-guastalla-milano?filter_by_userid=True&select=HKcvhk4V2pBdhwolV5ZpKg&userid=sEMfV30GIn6oG0e4DP-f7Q#HKcvhk4V2pBdhwolV5ZpKg"
+            },"type" : "Feature"}
+          , { "geometry" : { "coordinates" : [14.712668465509068,37.95331864139681],"type" : "Point"},
+            "properties" : { "postid":"2082", "picture":"","titolo":"Avamposto sulla sponda del lago","url_post":"http://www.cityplanner.it/natural_tree/avamposto-sponda-lago/",
+            "content" : "","source_url" : ""
+            },"type" : "Feature"}
+          , { "geometry" : { "coordinates" : [14.22938929999998,41.1200491],"type" : "Point"},
+            "properties" : { "postid":"2080", "picture":"","titolo":"Riflessi d&#8217;autunno con allagamento","url_post":"http://www.cityplanner.it/natural_tree/riflessi-dautunno-allagamento/",
+            "content" : "","source_url" : ""
+            },"type" : "Feature"}
+          , { "geometry" : { "coordinates" : [11.360057600000005,43.36954069999999],"type" : "Point"},
+            "properties" : { "postid":"2078", "picture":"","titolo":"2001, Certosa di Pontignano","url_post":"http://www.cityplanner.it/natural_tree/2001-certosa-pontignano/",
+            "content" : "","source_url" : ""
+            },"type" : "Feature"}
+          , { "geometry" : { "coordinates" : [10.593890200000033,44.391765],"type" : "Point"},
+            "properties" : { "postid":"2076", "picture":"","titolo":"Black &#038; white","url_post":"http://www.cityplanner.it/natural_tree/black-white/",
+            "content" : "","source_url" : ""
+            },"type" : "Feature"}
+          , { "geometry" : { "coordinates" : [10.593890200000033,44.391765],"type" : "Point"},
+            "properties" : { "postid":"2074", "picture":"","titolo":"Nebbia sul Lago Inferiore","url_post":"http://www.cityplanner.it/natural_tree/nebbia-lago-inferiore/",
+            "content" : "","source_url" : "http://www.panoramio.com/photo/79564560"
+            },"type" : "Feature"}
+          , { "geometry" : { "coordinates" : [60.59752223809812,56.889924376400586],"type" : "Point"},
+            "properties" : { "postid":"2052", "picture":"","titolo":"Noir tree","url_post":"http://www.cityplanner.it/natural_tree/noir-tree/",
+            "content" : "","source_url" : ""
+            },"type" : "Feature"}
+          , { "geometry" : { "coordinates" : [8.909749321951267,45.608242563738415],"type" : "Point"},
+            "properties" : { "postid":"2010", "picture":"","titolo":"Alberi monumentali, i platani di Castellanza (VA)","url_post":"http://www.cityplanner.it/natural_tree/alberi-monumentali-i-platani-castellanza/",
+            "content" : "","source_url" : ""
+            },"type" : "Feature"}
+          , { "geometry" : { "coordinates" : [9.112892999999985,45.496917],"type" : "Point"},
+            "properties" : { "postid":"2003", "picture":"","titolo":"Milano Bonola","url_post":"http://www.cityplanner.it/natural_tree/milano-bonola/",
+            "content" : "","source_url" : ""
+            },"type" : "Feature"}
+          , { "geometry" : { "coordinates" : [9.43116050160529,46.13815964754997],"type" : "Point"},
+            "properties" : { "postid":"2000", "picture":"","titolo":"Piantedo (SO)","url_post":"http://www.cityplanner.it/natural_tree/piantedo-so/",
+            "content" : "","source_url" : ""
+            },"type" : "Feature"}
+          , { "geometry" : { "coordinates" : [8.722465517860428,45.68928695698163],"type" : "Point"},
+            "properties" : { "postid":"1996", "picture":"","titolo":"blu e bianco","url_post":"http://www.cityplanner.it/natural_tree/blu-bianco/",
+            "content" : "","source_url" : ""
+            },"type" : "Feature"}
+          , { "geometry" : { "coordinates" : [8.722031000000015,45.689227],"type" : "Point"},
+            "properties" : { "postid":"1994", "picture":"","titolo":"Secondo voi è un #Tasso?","url_post":"http://www.cityplanner.it/natural_tree/tasso/",
+            "content" : "","source_url" : ""
+            },"type" : "Feature"}
+          , { "geometry" : { "coordinates" : [8.722031000000015,45.689227],"type" : "Point"},
+            "properties" : { "postid":"1982", "picture":"","titolo":"Albero","url_post":"http://www.cityplanner.it/natural_tree/albero/",
+            "content" : "","source_url" : "http://www.panoramio.com/photo/36900714"
+            },"type" : "Feature"}
+          , { "geometry" : { "coordinates" : [9.384068200000002,45.4029586],"type" : "Point"},
+            "properties" : { "postid":"1979", "picture":"","titolo":"DI QUI PASSA LA TEM","url_post":"http://www.cityplanner.it/natural_tree/passa-tem/",
+            "content" : "","source_url" : ""
+            },"type" : "Feature"}
+          , { "geometry" : { "coordinates" : [9.03441309939808,45.69300992064035],"type" : "Point"},
+            "properties" : { "postid":"1903", "picture":"","titolo":"Ulivo colorato","url_post":"http://www.cityplanner.it/natural_tree/ulivo-colorato/",
+            "content" : "","source_url" : ""
+            },"type" : "Feature"}
+          , { "geometry" : { "coordinates" : [9.03441309939808,45.69300992064035],"type" : "Point"},
+            "properties" : { "postid":"1889", "picture":"","titolo":"Albero GELATO","url_post":"http://www.cityplanner.it/natural_tree/up/",
+            "content" : "","source_url" : ""
+            },"type" : "Feature"}
+          
+        ],"type" : "FeatureCollection"}
+      
