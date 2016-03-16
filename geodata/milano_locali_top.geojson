@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Alcatraz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.182364,
+          45.494581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lime Light Milano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.186623,
+          45.448833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Amnesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.239838,
+          45.463765
+        ]
+      }
+    }
+  ]
+}
