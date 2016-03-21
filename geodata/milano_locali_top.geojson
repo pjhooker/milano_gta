@@ -29,16 +29,43 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "title": "Amnesia"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.239838,
-          45.463765
-        ]
-      }
+      "properties": {"title": "Amnesia"},
+      "geometry": {"type": "Point","coordinates": [9.239838,45.463765]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"title": "Just Cavalli"},
+      "geometry": {"type": "Point","coordinates": [9.172888,45.473258]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"title": "Anadima"},
+      "geometry": {"type": "Point","coordinates": [9.177609,45.447531]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"title": "Pravda Vodka Bar"},
+      "geometry": {"type": "Point","coordinates": [9.193873,45.450414]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"title": "Scalo Farini"},
+      "geometry": {"type": "Point","coordinates": [9.182493,45.488727]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"title": "Atomic"},
+      "geometry": {"type": "Point","coordinates": [9.202988,45.478973]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"title": "B Space"},
+      "geometry": {"type": "Point","coordinates": [9.184836,45.491268]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"title": "Crazy Jungle"},
+      "geometry": {"type": "Point","coordinates": [9.241093, 45.464139]}
     }
   ]
 }
