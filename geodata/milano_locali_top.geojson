@@ -64,8 +64,8 @@
     },
     {
       "type": "Feature",
-      "properties": {"title": "Crazy Jungle"},
-      "geometry": {"type": "Point","coordinates": [9.241093, 45.464139]}
+      "properties": {"title": "Cost"},
+      "geometry": {"type": "Point","coordinates": [9.183902,45.482515]}
     }
   ]
 }
