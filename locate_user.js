@@ -6,7 +6,7 @@
             key: "AIzaSyB_deOb9fLaF2uZY47QXAmkkY0p8Fhg-EY"
         }
     });
-    function locate_user() {
+
         var options = {
             enableHighAccuracy: true,
             timeout: 6000,
@@ -27,5 +27,5 @@
             //$("#container-red").html(my_center_lat+"-"+my_center_lng);
             //create_user_map(my_center_lat,my_center_lng);
         });
-    };
+
   // onury/geolocator END
